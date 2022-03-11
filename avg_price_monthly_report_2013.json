@@ -1,0 +1,1866 @@
+{
+    "Enero": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.34809776828921,
+            "Precio Gasoleo B": 1.0772734588350985,
+            "Precio Gasoleo Premium": 1.409527273575092,
+            "Precio Gasolina 95 E5": 1.394618275315821,
+            "Precio Gasolina 98 E5": 1.51074420519389,
+            "Precio Biodiesel": 1.3395762388966808
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.39037257836333,
+            "Precio Gasoleo B": 1.0360122761319543,
+            "Precio Gasolina 95 E5": 1.4410450941987702,
+            "Precio Gasoleo Premium": 1.4541974204908796,
+            "Precio Gasolina 98 E5": 1.5579350686439475,
+            "Precio Biodiesel": 1.3551666666666669
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.3918537353357996,
+            "Precio Gasoleo Premium": 1.4539210872346473,
+            "Precio Gasolina 95 E5": 1.436502442997095,
+            "Precio Gasolina 98 E5": 1.55378574224295,
+            "Precio Gasoleo B": 1.04993104280762,
+            "Precio Biodiesel": 1.3771755976997913
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.3893655627624857,
+            "Precio Gasoleo B": 1.050191320928114,
+            "Precio Gasoleo Premium": 1.4510738242497212,
+            "Precio Gasolina 95 E5": 1.4372767448311095,
+            "Precio Gasolina 98 E5": 1.5550129607636882,
+            "Precio Biodiesel": 1.3846987752838558
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3984894038637292,
+            "Precio Gasoleo B": 1.0555020317020207,
+            "Precio Gasoleo Premium": 1.4598086898362432,
+            "Precio Gasolina 95 E5": 1.4459039999742007,
+            "Precio Gasolina 98 E5": 1.5633963149523709,
+            "Precio Biodiesel": 1.3870126658287945
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.393516059559536,
+            "Precio Gasoleo B": 1.0433596248966748,
+            "Precio Gasoleo Premium": 1.4568799127817518,
+            "Precio Gasolina 95 E5": 1.4438622210429275,
+            "Precio Gasolina 98 E5": 1.562063268962546,
+            "Precio Biodiesel": 1.3708156682027652
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.412545745446363,
+            "Precio Gasoleo Premium": 1.4721299951853637,
+            "Precio Gasolina 95 E5": 1.4615583962636403,
+            "Precio Gasolina 98 E5": 1.576487362501545,
+            "Precio Gasoleo B": 1.0722347670250896
+        },
+        "Cataluña": {
+            "Precio Biodiesel": 1.3702903862076456,
+            "Precio Gasoleo A": 1.3789892081937574,
+            "Precio Gasolina 95 E5": 1.4298716756812564,
+            "Precio Gasolina 98 E5": 1.5502508814597329,
+            "Precio Gasoleo Premium": 1.446771226256616,
+            "Precio Gasoleo B": 1.044320020450411
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3604421732276595,
+            "Precio Gasoleo B": 1.0618468410381146,
+            "Precio Gasoleo Premium": 1.4210210319180292,
+            "Precio Gasolina 95 E5": 1.418377626122482,
+            "Precio Gasolina 98 E5": 1.5342888036299358,
+            "Precio Biodiesel": 1.3426272131942758
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3332623385473448,
+            "Precio Gasoleo B": 1.0142774376388104,
+            "Precio Gasoleo Premium": 1.4044974141949582,
+            "Precio Gasolina 95 E5": 1.383382138283342,
+            "Precio Gasolina 98 E5": 1.5058481098392438,
+            "Precio Biodiesel": 1.3238245356793745
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.343415394769408,
+            "Precio Gasoleo B": 1.0550991155046832,
+            "Precio Gasoleo Premium": 1.406344288425047,
+            "Precio Gasolina 95 E5": 1.3909104262672816,
+            "Precio Gasolina 98 E5": 1.5090613204959404,
+            "Precio Biodiesel": 1.3512580645161285
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3639646457462988,
+            "Precio Gasoleo B": 1.0657895894428149,
+            "Precio Gasoleo Premium": 1.4233263921701087,
+            "Precio Gasolina 95 E5": 1.411357845421351,
+            "Precio Gasolina 98 E5": 1.527977282479197,
+            "Precio Biodiesel": 1.3706907950472464
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3749390339704497,
+            "Precio Gasoleo B": 1.0595605191820405,
+            "Precio Gasoleo Premium": 1.4383008456180415,
+            "Precio Gasolina 95 E5": 1.4215478724609885,
+            "Precio Gasolina 98 E5": 1.5351490627312543,
+            "Precio Biodiesel": 1.3497946236559144
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3411119036266088,
+            "Precio Gasoleo B": 1.018589025283438,
+            "Precio Gasoleo Premium": 1.4093082230014462,
+            "Precio Gasolina 95 E5": 1.3986787952258235,
+            "Precio Gasolina 98 E5": 1.5179780116194979,
+            "Precio Biodiesel": 1.3466688881011464
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3903038229504652,
+            "Precio Gasoleo B": 1.0610039736780448,
+            "Precio Gasoleo Premium": 1.4507760599792834,
+            "Precio Gasolina 95 E5": 1.4468500542543972,
+            "Precio Gasolina 98 E5": 1.5618717928539225,
+            "Precio Biodiesel": 1.3459290322580646
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.085155257401838,
+            "Precio Gasolina 95 E5": 1.0934910750051166,
+            "Precio Gasolina 98 E5": 1.1736137134526443,
+            "Precio Gasoleo Premium": 1.136453022551303
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.399301697904696,
+            "Precio Gasoleo Premium": 1.4601481968878853,
+            "Precio Gasolina 95 E5": 1.4440740286153102,
+            "Precio Gasolina 98 E5": 1.5621553478905847,
+            "Precio Biodiesel": 1.3934441756272402,
+            "Precio Gasoleo B": 1.0622431278501916
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1192492668621699,
+            "Precio Gasoleo Premium": 1.1483870967741936,
+            "Precio Gasolina 95 E5": 1.1479794721407626,
+            "Precio Gasolina 98 E5": 1.1757683284457479
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.0190285359801494,
+            "Precio Gasoleo Premium": 1.0720408602150537,
+            "Precio Gasolina 95 E5": 1.068971464019851
+        }
+    },
+    "Febrero": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.376660054212689,
+            "Precio Gasoleo B": 1.104342281437065,
+            "Precio Gasoleo Premium": 1.4377014789125002,
+            "Precio Gasolina 95 E5": 1.4555803800997988,
+            "Precio Gasolina 98 E5": 1.5707947587421842,
+            "Precio Biodiesel": 1.3672610636645963
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.4166345151959716,
+            "Precio Gasoleo B": 1.0586988243445963,
+            "Precio Gasolina 95 E5": 1.4986858896717046,
+            "Precio Gasoleo Premium": 1.4805822972299494,
+            "Precio Gasolina 98 E5": 1.6155653295375276,
+            "Precio Biodiesel": 1.3821607142857142
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.4204051159610578,
+            "Precio Gasoleo Premium": 1.4827502058714137,
+            "Precio Gasolina 95 E5": 1.4979813866137053,
+            "Precio Gasolina 98 E5": 1.614192125580699,
+            "Precio Gasoleo B": 1.073525427779403,
+            "Precio Biodiesel": 1.4094943574481074
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.416618697376592,
+            "Precio Gasoleo B": 1.075138301964491,
+            "Precio Gasoleo Premium": 1.478895337698187,
+            "Precio Gasolina 95 E5": 1.497149911095314,
+            "Precio Gasolina 98 E5": 1.6150951738526873,
+            "Precio Biodiesel": 1.4152814064583648
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.4266930451391058,
+            "Precio Gasoleo B": 1.0814824435454278,
+            "Precio Gasoleo Premium": 1.4886894778117195,
+            "Precio Gasolina 95 E5": 1.5064376586326806,
+            "Precio Gasolina 98 E5": 1.6239079074263487,
+            "Precio Biodiesel": 1.4146886904761904
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.418203283707356,
+            "Precio Gasoleo B": 1.0640601957118965,
+            "Precio Gasoleo Premium": 1.4818986580382698,
+            "Precio Gasolina 95 E5": 1.5002641502070182,
+            "Precio Gasolina 98 E5": 1.6168059314861851,
+            "Precio Biodiesel": 1.3711228741496597
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4421710167998743,
+            "Precio Gasoleo Premium": 1.5016580817929168,
+            "Precio Gasolina 95 E5": 1.5239398293932955,
+            "Precio Gasolina 98 E5": 1.6385686611048944,
+            "Precio Gasoleo B": 1.101312926837402
+        },
+        "Cataluña": {
+            "Precio Biodiesel": 1.394458638808621,
+            "Precio Gasoleo A": 1.4034301069600814,
+            "Precio Gasolina 95 E5": 1.4876044239490507,
+            "Precio Gasolina 98 E5": 1.6075993886241329,
+            "Precio Gasoleo Premium": 1.4717094232093595,
+            "Precio Gasoleo B": 1.0666284644362638
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3892628276523287,
+            "Precio Gasoleo B": 1.0880944867601279,
+            "Precio Gasoleo Premium": 1.4502391601121896,
+            "Precio Gasolina 95 E5": 1.4787475813277968,
+            "Precio Gasolina 98 E5": 1.5944678601889795,
+            "Precio Biodiesel": 1.374248851294904
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.359425785321525,
+            "Precio Gasoleo B": 1.0361014551064944,
+            "Precio Gasoleo Premium": 1.4324058763854726,
+            "Precio Gasolina 95 E5": 1.4419607269677714,
+            "Precio Gasolina 98 E5": 1.5643122708742658,
+            "Precio Biodiesel": 1.3502053571428567
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3723335160151016,
+            "Precio Gasoleo B": 1.0766145593317968,
+            "Precio Gasoleo Premium": 1.435280112044818,
+            "Precio Gasolina 95 E5": 1.4531316964285708,
+            "Precio Gasolina 98 E5": 1.5725342565597662,
+            "Precio Biodiesel": 1.3792500000000005
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3919620927706353,
+            "Precio Gasoleo B": 1.0949147432708422,
+            "Precio Gasoleo Premium": 1.4514442171026911,
+            "Precio Gasolina 95 E5": 1.471823405983445,
+            "Precio Gasolina 98 E5": 1.588019106616112,
+            "Precio Biodiesel": 1.3976383928571428
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.4018169986006737,
+            "Precio Gasoleo B": 1.0847369232649855,
+            "Precio Gasoleo Premium": 1.4656780930230706,
+            "Precio Gasolina 95 E5": 1.4776826211049758,
+            "Precio Gasolina 98 E5": 1.5905438128918814,
+            "Precio Biodiesel": 1.357385714285715
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3694594315175768,
+            "Precio Gasoleo B": 1.0451773124274295,
+            "Precio Gasoleo Premium": 1.4370175931993592,
+            "Precio Gasolina 95 E5": 1.4560713573651085,
+            "Precio Gasolina 98 E5": 1.5730460264856505,
+            "Precio Biodiesel": 1.3741581632653064
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.4179190722089725,
+            "Precio Gasoleo B": 1.0875972257839435,
+            "Precio Gasoleo Premium": 1.478638509108341,
+            "Precio Gasolina 95 E5": 1.5067534737299169,
+            "Precio Gasolina 98 E5": 1.621515864795797,
+            "Precio Biodiesel": 1.3848160714285715
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.094000680535229,
+            "Precio Gasolina 95 E5": 1.1169956377015073,
+            "Precio Gasolina 98 E5": 1.198770608021799,
+            "Precio Gasoleo Premium": 1.1456144222688673
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.427242563250703,
+            "Precio Gasoleo Premium": 1.489006712615902,
+            "Precio Gasolina 95 E5": 1.5030398281286261,
+            "Precio Gasolina 98 E5": 1.6185608051900802,
+            "Precio Biodiesel": 1.420353174603174,
+            "Precio Gasoleo B": 1.0781761051163754
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1423636363636362,
+            "Precio Gasoleo Premium": 1.1737142857142853,
+            "Precio Gasolina 95 E5": 1.1994805194805198,
+            "Precio Gasolina 98 E5": 1.2281331168831167
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.0556895604395604,
+            "Precio Gasoleo Premium": 1.107296428571428,
+            "Precio Gasolina 95 E5": 1.136434065934066
+        }
+    },
+    "Marzo": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.352737487015984,
+            "Precio Gasoleo B": 1.0838237811079723,
+            "Precio Gasoleo Premium": 1.4134411902247792,
+            "Precio Gasolina 95 E5": 1.4326598037756593,
+            "Precio Gasolina 98 E5": 1.5479738818063686,
+            "Precio Biodiesel": 1.3455838709677415
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3936839821983031,
+            "Precio Gasoleo B": 1.0411291416866728,
+            "Precio Gasolina 95 E5": 1.4777554238573487,
+            "Precio Gasoleo Premium": 1.4565159756401238,
+            "Precio Gasolina 98 E5": 1.592788509252317,
+            "Precio Biodiesel": 1.3536182795698926
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.398837055540076,
+            "Precio Gasoleo Premium": 1.4612932991683159,
+            "Precio Gasolina 95 E5": 1.4821881100623853,
+            "Precio Gasolina 98 E5": 1.5984445454245206,
+            "Precio Gasoleo B": 1.0568706081007773,
+            "Precio Biodiesel": 1.402568463385609
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.3977724101680007,
+            "Precio Gasoleo B": 1.0557821926421889,
+            "Precio Gasoleo Premium": 1.4594206820852027,
+            "Precio Gasolina 95 E5": 1.4807708472050347,
+            "Precio Gasolina 98 E5": 1.5983236981141078,
+            "Precio Biodiesel": 1.3992296317942723
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.40341211244456,
+            "Precio Gasoleo B": 1.058992815244423,
+            "Precio Gasoleo Premium": 1.4650677462988506,
+            "Precio Gasolina 95 E5": 1.484711488155095,
+            "Precio Gasolina 98 E5": 1.6016388691329286,
+            "Precio Biodiesel": 1.3959512733446515
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3960681828680994,
+            "Precio Gasoleo B": 1.0466343939555343,
+            "Precio Gasoleo Premium": 1.4584820914877403,
+            "Precio Gasolina 95 E5": 1.4827380144114204,
+            "Precio Gasolina 98 E5": 1.5970407962393947,
+            "Precio Biodiesel": 1.3657206221198157
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.418392945415802,
+            "Precio Gasoleo Premium": 1.4778212848658427,
+            "Precio Gasolina 95 E5": 1.499783388253112,
+            "Precio Gasolina 98 E5": 1.6147204325700384,
+            "Precio Gasoleo B": 1.0756852158067527
+        },
+        "Cataluña": {
+            "Precio Biodiesel": 1.37085994261884,
+            "Precio Gasoleo A": 1.3774056740821845,
+            "Precio Gasolina 95 E5": 1.4674613590930676,
+            "Precio Gasolina 98 E5": 1.5864859326004035,
+            "Precio Gasoleo Premium": 1.4457119456730745,
+            "Precio Gasoleo B": 1.0493157885030011
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.364812689710617,
+            "Precio Gasoleo B": 1.0663696501510869,
+            "Precio Gasoleo Premium": 1.4254857852704792,
+            "Precio Gasolina 95 E5": 1.455884469812907,
+            "Precio Gasolina 98 E5": 1.5715239716534501,
+            "Precio Biodiesel": 1.3551612903225811
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3351466416529447,
+            "Precio Gasoleo B": 1.017596302753082,
+            "Precio Gasoleo Premium": 1.406071849122537,
+            "Precio Gasolina 95 E5": 1.420014385204671,
+            "Precio Gasolina 98 E5": 1.5411887462753031,
+            "Precio Biodiesel": 1.3370372208436718
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3484599317988062,
+            "Precio Gasoleo B": 1.0569238423517169,
+            "Precio Gasoleo Premium": 1.4113198355471221,
+            "Precio Gasolina 95 E5": 1.42819474046339,
+            "Precio Gasolina 98 E5": 1.5458327847267936,
+            "Precio Biodiesel": 1.3508064516129035
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3668646421892627,
+            "Precio Gasoleo B": 1.0684669339072308,
+            "Precio Gasoleo Premium": 1.4266366677076425,
+            "Precio Gasolina 95 E5": 1.4480394871762543,
+            "Precio Gasolina 98 E5": 1.5649953633654639,
+            "Precio Biodiesel": 1.3823387096774191
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3836981814007165,
+            "Precio Gasoleo B": 1.0653684782656871,
+            "Precio Gasoleo Premium": 1.4474210748930803,
+            "Precio Gasolina 95 E5": 1.4648108593365001,
+            "Precio Gasolina 98 E5": 1.5784957246658697,
+            "Precio Biodiesel": 1.3543548387096764
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3499855970188224,
+            "Precio Gasoleo B": 1.0237633336231633,
+            "Precio Gasoleo Premium": 1.4175910279687491,
+            "Precio Gasolina 95 E5": 1.4405160901152458,
+            "Precio Gasolina 98 E5": 1.5561599653087288,
+            "Precio Biodiesel": 1.35081797235023
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3933965844941631,
+            "Precio Gasoleo B": 1.063369579808606,
+            "Precio Gasoleo Premium": 1.4543663897115615,
+            "Precio Gasolina 95 E5": 1.4825873122344932,
+            "Precio Gasolina 98 E5": 1.5980207709363239,
+            "Precio Biodiesel": 1.3698790322580645
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.091390322729278,
+            "Precio Gasolina 95 E5": 1.1196683055045524,
+            "Precio Gasolina 98 E5": 1.2023857328180114,
+            "Precio Gasoleo Premium": 1.142994155744174
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.4056230480697094,
+            "Precio Gasoleo B": 1.0722165104083898,
+            "Precio Gasoleo Premium": 1.4675587537910113,
+            "Precio Gasolina 95 E5": 1.4842273199972984,
+            "Precio Gasolina 98 E5": 1.5997638092715285,
+            "Precio Biodiesel": 1.4064659498207888
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1227697947214073,
+            "Precio Gasolina 95 E5": 1.1873105571847509,
+            "Precio Gasolina 98 E5": 1.2165422287390033,
+            "Precio Gasoleo Premium": 1.1505806451612903
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.0373846153846156,
+            "Precio Gasoleo Premium": 1.0875677419354841,
+            "Precio Gasolina 95 E5": 1.123521091811414
+        }
+    },
+    "Abril": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3206099765715495,
+            "Precio Gasoleo B": 1.0507781307246111,
+            "Precio Gasoleo Premium": 1.3813176976122328,
+            "Precio Gasolina 95 E5": 1.4100076125948555,
+            "Precio Gasolina 98 E5": 1.5250712173158805,
+            "Precio Biodiesel": 1.318973611111111
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3599607052552714,
+            "Precio Gasoleo B": 1.0109338218691906,
+            "Precio Gasolina 95 E5": 1.4486289457634705,
+            "Precio Gasoleo Premium": 1.4234602411884327,
+            "Precio Gasolina 98 E5": 1.564480898055418,
+            "Precio Biodiesel": 1.3223611111111115
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.3659213580968528,
+            "Precio Gasoleo Premium": 1.429570663673669,
+            "Precio Gasolina 95 E5": 1.451351152840856,
+            "Precio Gasolina 98 E5": 1.5699909017319351,
+            "Precio Gasoleo B": 1.0251860827827448,
+            "Precio Biodiesel": 1.374697061593377
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.364501627916089,
+            "Precio Gasoleo B": 1.024704224271004,
+            "Precio Gasoleo Premium": 1.4259514260547788,
+            "Precio Gasolina 95 E5": 1.4520315369200434,
+            "Precio Gasolina 98 E5": 1.5697643490483724,
+            "Precio Biodiesel": 1.3711920876216426
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3689199616594352,
+            "Precio Gasoleo B": 1.0272761564684063,
+            "Precio Gasoleo Premium": 1.430563153515234,
+            "Precio Gasolina 95 E5": 1.4556661804943098,
+            "Precio Gasolina 98 E5": 1.5727000116374688,
+            "Precio Biodiesel": 1.3620744736842103
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3627464990930842,
+            "Precio Gasoleo B": 1.0149142921357932,
+            "Precio Gasoleo Premium": 1.425719068808411,
+            "Precio Gasolina 95 E5": 1.4551033983278996,
+            "Precio Gasolina 98 E5": 1.57015288492096,
+            "Precio Biodiesel": 1.3531168650793652
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.383639737788607,
+            "Precio Gasoleo Premium": 1.4429330434294698,
+            "Precio Gasolina 95 E5": 1.4699044513243895,
+            "Precio Gasolina 98 E5": 1.5852024972445284,
+            "Precio Gasoleo B": 1.042092010582011
+        },
+        "Cataluña": {
+            "Precio Biodiesel": 1.3314125903250182,
+            "Precio Gasoleo A": 1.3384551150262105,
+            "Precio Gasolina 95 E5": 1.4362476894627334,
+            "Precio Gasolina 98 E5": 1.5577455649190102,
+            "Precio Gasoleo Premium": 1.407425732554518,
+            "Precio Gasoleo B": 1.0173245492210574
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3303272631278815,
+            "Precio Gasoleo B": 1.0356025409473248,
+            "Precio Gasoleo Premium": 1.390629303070746,
+            "Precio Gasolina 95 E5": 1.4285422698835861,
+            "Precio Gasolina 98 E5": 1.5443903238457348,
+            "Precio Biodiesel": 1.3280491285403047
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3104194617874974,
+            "Precio Gasoleo B": 0.9863958623345165,
+            "Precio Gasoleo Premium": 1.383933868130933,
+            "Precio Gasolina 95 E5": 1.3981247921937874,
+            "Precio Gasolina 98 E5": 1.5201651089888193,
+            "Precio Biodiesel": 1.3218769230769238
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3163024154589371,
+            "Precio Gasoleo B": 1.0269135416666664,
+            "Precio Gasoleo Premium": 1.3793339869281047,
+            "Precio Gasolina 95 E5": 1.4019338541666668,
+            "Precio Gasolina 98 E5": 1.5191387755102042,
+            "Precio Biodiesel": 1.3212333333333326
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3337241159855147,
+            "Precio Gasoleo B": 1.0329831755050503,
+            "Precio Gasoleo Premium": 1.3934738797558608,
+            "Precio Gasolina 95 E5": 1.4198628559456001,
+            "Precio Gasolina 98 E5": 1.537092566347078,
+            "Precio Biodiesel": 1.3466999999999998
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3480170678719419,
+            "Precio Gasoleo B": 1.034885573290154,
+            "Precio Gasoleo Premium": 1.41295941975568,
+            "Precio Gasolina 95 E5": 1.4320978115560579,
+            "Precio Gasolina 98 E5": 1.5473396754746538,
+            "Precio Biodiesel": 1.3087066666666665
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3117302853627113,
+            "Precio Gasoleo B": 0.9897800712927448,
+            "Precio Gasoleo Premium": 1.3823021260265707,
+            "Precio Gasolina 95 E5": 1.4092214470130544,
+            "Precio Gasolina 98 E5": 1.5254778433758593,
+            "Precio Biodiesel": 1.3186595238095244
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3590502101352502,
+            "Precio Gasoleo B": 1.0322591617933725,
+            "Precio Gasoleo Premium": 1.4210249114337359,
+            "Precio Gasolina 95 E5": 1.4533419278780442,
+            "Precio Gasolina 98 E5": 1.569525829857082,
+            "Precio Biodiesel": 1.3328083333333334
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0741079813048073,
+            "Precio Gasolina 95 E5": 1.1126770338542842,
+            "Precio Gasolina 98 E5": 1.1957854846156475,
+            "Precio Gasoleo Premium": 1.1259667748850126
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.3650861698386036,
+            "Precio Gasoleo B": 1.0473553639846744,
+            "Precio Gasoleo Premium": 1.4268074255454695,
+            "Precio Gasolina 95 E5": 1.456126137135293,
+            "Precio Gasolina 98 E5": 1.5721758148148148,
+            "Precio Biodiesel": 1.3717541666666668
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.086873703703703,
+            "Precio Gasolina 95 E5": 1.141463333333334,
+            "Precio Gasolina 98 E5": 1.1703781481481481,
+            "Precio Gasoleo Premium": 1.110866666666667
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.9994179487179481,
+            "Precio Gasoleo Premium": 1.0489233333333334,
+            "Precio Gasolina 95 E5": 1.0786538461538464
+        }
+    },
+    "Mayo": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3041691275256881,
+            "Precio Gasoleo B": 1.0379632576676292,
+            "Precio Gasoleo Premium": 1.3682605608273108,
+            "Precio Gasolina 95 E5": 1.3922364217728616,
+            "Precio Gasolina 98 E5": 1.5071648198241379,
+            "Precio Biodiesel": 1.2921694717157546
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3486720662923108,
+            "Precio Gasoleo B": 0.9962747556897196,
+            "Precio Gasolina 95 E5": 1.434318154758227,
+            "Precio Gasoleo Premium": 1.4146150050368351,
+            "Precio Gasolina 98 E5": 1.5511371715896696,
+            "Precio Biodiesel": 1.3064946236559138
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.3534170845431626,
+            "Precio Gasoleo Premium": 1.4189892830710902,
+            "Precio Gasolina 95 E5": 1.4347698565229359,
+            "Precio Gasolina 98 E5": 1.5543062082664354,
+            "Precio Gasoleo B": 1.0090448498677684,
+            "Precio Biodiesel": 1.3653698358800224
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.352502514547493,
+            "Precio Gasoleo B": 1.008263472239989,
+            "Precio Gasoleo Premium": 1.415759312898538,
+            "Precio Gasolina 95 E5": 1.436560631177375,
+            "Precio Gasolina 98 E5": 1.5554686674474525,
+            "Precio Biodiesel": 1.3535759384791834
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.358943315936539,
+            "Precio Gasoleo B": 1.01472124383331,
+            "Precio Gasoleo Premium": 1.4215518364340969,
+            "Precio Gasolina 95 E5": 1.4421051987894757,
+            "Precio Gasolina 98 E5": 1.5594208408237755,
+            "Precio Biodiesel": 1.3513089983022077
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.349951180817521,
+            "Precio Gasoleo B": 0.9939028902824198,
+            "Precio Gasoleo Premium": 1.416663782893224,
+            "Precio Gasolina 95 E5": 1.4392051278972997,
+            "Precio Gasolina 98 E5": 1.5579709224535363,
+            "Precio Biodiesel": 1.321961904761905
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.3760704629227145,
+            "Precio Gasoleo Premium": 1.4358420799229665,
+            "Precio Gasolina 95 E5": 1.4595010349464839,
+            "Precio Gasolina 98 E5": 1.5746121718195256,
+            "Precio Gasoleo B": 1.0341523297491042
+        },
+        "Cataluña": {
+            "Precio Biodiesel": 1.3120237229724208,
+            "Precio Gasoleo A": 1.3255243874561762,
+            "Precio Gasolina 95 E5": 1.4181631781655089,
+            "Precio Gasolina 98 E5": 1.541273992371439,
+            "Precio Gasoleo Premium": 1.3972488006109842,
+            "Precio Gasoleo B": 1.0021843207178123
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.321588913585018,
+            "Precio Gasoleo B": 1.0226420681979662,
+            "Precio Gasoleo Premium": 1.381943917221784,
+            "Precio Gasolina 95 E5": 1.4155593126827408,
+            "Precio Gasolina 98 E5": 1.531593537307826,
+            "Precio Biodiesel": 1.3213870199692779
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3015245478835713,
+            "Precio Gasoleo B": 0.9723249664551668,
+            "Precio Gasoleo Premium": 1.3785505698637093,
+            "Precio Gasolina 95 E5": 1.3885205455282468,
+            "Precio Gasolina 98 E5": 1.5123951294652047,
+            "Precio Biodiesel": 1.3044168734491313
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3109822346891071,
+            "Precio Gasoleo B": 1.0167006048387095,
+            "Precio Gasoleo Premium": 1.3747982289690073,
+            "Precio Gasolina 95 E5": 1.3892162298387096,
+            "Precio Gasolina 98 E5": 1.506504279131007,
+            "Precio Biodiesel": 1.2915161290322579
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3253527506861171,
+            "Precio Gasoleo B": 1.0234010569403715,
+            "Precio Gasoleo Premium": 1.3849000701235732,
+            "Precio Gasolina 95 E5": 1.4080983159461937,
+            "Precio Gasolina 98 E5": 1.5244534035669857,
+            "Precio Biodiesel": 1.3390322580645162
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3380252308036609,
+            "Precio Gasoleo B": 1.0211932189166053,
+            "Precio Gasoleo Premium": 1.4041521719444954,
+            "Precio Gasolina 95 E5": 1.4182321570862524,
+            "Precio Gasolina 98 E5": 1.5345326176870626,
+            "Precio Biodiesel": 1.2902080645161285
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3039111702721777,
+            "Precio Gasoleo B": 0.9790386863892971,
+            "Precio Gasoleo Premium": 1.3762530103848276,
+            "Precio Gasolina 95 E5": 1.3973899621733514,
+            "Precio Gasolina 98 E5": 1.515911036379966,
+            "Precio Biodiesel": 1.3040946472881958
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.349010764737465,
+            "Precio Gasoleo B": 1.0200795328142382,
+            "Precio Gasoleo Premium": 1.411363845004065,
+            "Precio Gasolina 95 E5": 1.4403291765866584,
+            "Precio Gasolina 98 E5": 1.5564179013208546,
+            "Precio Biodiesel": 1.317693548387096
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.045366534898861,
+            "Precio Gasolina 95 E5": 1.0870105900998,
+            "Precio Gasolina 98 E5": 1.1705894973492885,
+            "Precio Gasoleo Premium": 1.0977285010129096
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.35340252193457,
+            "Precio Gasoleo B": 1.0214178372795177,
+            "Precio Gasoleo Premium": 1.4178211790384316,
+            "Precio Gasolina 95 E5": 1.444832515958187,
+            "Precio Gasolina 98 E5": 1.5605451281579836,
+            "Precio Biodiesel": 1.3497540322580646
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.0729551971326163,
+            "Precio Gasolina 95 E5": 1.1225824372759858,
+            "Precio Gasolina 98 E5": 1.1515206093189965,
+            "Precio Gasoleo Premium": 1.102774193548387
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.9852770133092712,
+            "Precio Gasoleo Premium": 1.0372290322580642,
+            "Precio Gasolina 95 E5": 1.0589025490638395
+        }
+    },
+    "Junio": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3027323490216256,
+            "Precio Gasoleo B": 1.0386561050615042,
+            "Precio Gasoleo Premium": 1.367068994940286,
+            "Precio Gasolina 95 E5": 1.39780510523168,
+            "Precio Gasolina 98 E5": 1.5139400037654516,
+            "Precio Biodiesel": 1.2858144927536228
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3462347715845004,
+            "Precio Gasoleo B": 0.9960312277370602,
+            "Precio Gasolina 95 E5": 1.4413947676942482,
+            "Precio Gasoleo Premium": 1.4112314053116044,
+            "Precio Gasolina 98 E5": 1.557138375306595,
+            "Precio Biodiesel": 1.2916555555555553
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.352818408956971,
+            "Precio Gasoleo Premium": 1.4173859196371306,
+            "Precio Gasolina 95 E5": 1.4423231822082465,
+            "Precio Gasolina 98 E5": 1.5605359449645004,
+            "Precio Gasoleo B": 1.0087017965509537,
+            "Precio Biodiesel": 1.367977290448343
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.352475308379315,
+            "Precio Gasoleo B": 1.0109046987017434,
+            "Precio Gasoleo Premium": 1.4155492537068712,
+            "Precio Gasolina 95 E5": 1.4450337634694617,
+            "Precio Gasolina 98 E5": 1.5629923305224307,
+            "Precio Biodiesel": 1.3509046993419636
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3582175491931718,
+            "Precio Gasoleo B": 1.0160432479009198,
+            "Precio Gasoleo Premium": 1.4207919729018315,
+            "Precio Gasolina 95 E5": 1.4503417930475588,
+            "Precio Gasolina 98 E5": 1.5679382999035314,
+            "Precio Biodiesel": 1.3499649696135763
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.35056922708332,
+            "Precio Gasoleo B": 0.9967270525755002,
+            "Precio Gasoleo Premium": 1.414731802060044,
+            "Precio Gasolina 95 E5": 1.4455963396386464,
+            "Precio Gasolina 98 E5": 1.5637221009986746,
+            "Precio Biodiesel": 1.324460555555555
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.379860946566003,
+            "Precio Gasoleo Premium": 1.4388223188568434,
+            "Precio Gasolina 95 E5": 1.4706884047687392,
+            "Precio Gasolina 98 E5": 1.5851349535506214,
+            "Precio Gasoleo B": 1.036292354497355
+        },
+        "Cataluña": {
+            "Precio Biodiesel": 1.3213168820453338,
+            "Precio Gasoleo A": 1.3290127700850392,
+            "Precio Gasolina 95 E5": 1.4269505528639077,
+            "Precio Gasolina 98 E5": 1.550040750139323,
+            "Precio Gasoleo Premium": 1.400822085442177,
+            "Precio Gasoleo B": 1.0034883744604666
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3215349635167024,
+            "Precio Gasoleo B": 1.024317455981331,
+            "Precio Gasoleo Premium": 1.3819321856218898,
+            "Precio Gasolina 95 E5": 1.4251211200895966,
+            "Precio Gasolina 98 E5": 1.5412258268631234,
+            "Precio Biodiesel": 1.320723333333333
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.2958511349499429,
+            "Precio Gasoleo B": 0.9732025601192544,
+            "Precio Gasoleo Premium": 1.370951393565668,
+            "Precio Gasolina 95 E5": 1.397934047528835,
+            "Precio Gasolina 98 E5": 1.5215014161428333,
+            "Precio Biodiesel": 1.3073166666666665
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.304611956521739,
+            "Precio Gasoleo B": 1.0166802755376347,
+            "Precio Gasoleo Premium": 1.3703260653594773,
+            "Precio Gasolina 95 E5": 1.3992362268518515,
+            "Precio Gasolina 98 E5": 1.5154646258503408,
+            "Precio Biodiesel": 1.2562666666666666
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3265646232761579,
+            "Precio Gasoleo B": 1.0274141414141416,
+            "Precio Gasoleo Premium": 1.3861139587555091,
+            "Precio Gasolina 95 E5": 1.4197971718719156,
+            "Precio Gasolina 98 E5": 1.5346469383932593,
+            "Precio Biodiesel": 1.3459000000000003
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3401910821374394,
+            "Precio Gasoleo B": 1.0236162131510822,
+            "Precio Gasoleo Premium": 1.4057064160268802,
+            "Precio Gasolina 95 E5": 1.4301903549339001,
+            "Precio Gasolina 98 E5": 1.5459581195396985,
+            "Precio Biodiesel": 1.283266666666667
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3089653078077201,
+            "Precio Gasoleo B": 0.9775416238638658,
+            "Precio Gasoleo Premium": 1.3846127481349642,
+            "Precio Gasolina 95 E5": 1.4079422101821055,
+            "Precio Gasolina 98 E5": 1.5279456612955413,
+            "Precio Biodiesel": 1.2940529914529921
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3485491953016457,
+            "Precio Gasoleo B": 1.0226473785037309,
+            "Precio Gasoleo Premium": 1.410697789994725,
+            "Precio Gasolina 95 E5": 1.4479657113558568,
+            "Precio Gasolina 98 E5": 1.563835341350346,
+            "Precio Biodiesel": 1.301322222222222
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0408962140818379,
+            "Precio Gasolina 95 E5": 1.0867233842895887,
+            "Precio Gasolina 98 E5": 1.1725067215716833,
+            "Precio Gasoleo Premium": 1.0957647558792614
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.3566193575990282,
+            "Precio Gasoleo B": 1.021009630541872,
+            "Precio Gasoleo Premium": 1.4208012321081245,
+            "Precio Gasolina 95 E5": 1.4524138778193547,
+            "Precio Gasolina 98 E5": 1.5684955168798236,
+            "Precio Biodiesel": 1.3540666666666665
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.0828999999999995,
+            "Precio Gasolina 95 E5": 1.1389074074074077,
+            "Precio Gasolina 98 E5": 1.1663074074074078,
+            "Precio Gasoleo Premium": 1.1108333333333342
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.9958948717948718,
+            "Precio Gasoleo Premium": 1.0469433333333331,
+            "Precio Gasolina 95 E5": 1.0790000000000002
+        }
+    },
+    "Julio": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3343933679062172,
+            "Precio Gasoleo B": 1.0638470749821778,
+            "Precio Gasoleo Premium": 1.3980423702276858,
+            "Precio Gasolina 95 E5": 1.4260950854590688,
+            "Precio Gasolina 98 E5": 1.5425265601705715,
+            "Precio Biodiesel": 1.3137831187045774
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3749246898059337,
+            "Precio Gasoleo B": 1.021509260437262,
+            "Precio Gasolina 95 E5": 1.4665889615159384,
+            "Precio Gasoleo Premium": 1.4405937885308528,
+            "Precio Gasolina 98 E5": 1.5819478312321362,
+            "Precio Biodiesel": 1.3148924731182787
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.3829313833958898,
+            "Precio Gasoleo Premium": 1.447929301095099,
+            "Precio Gasolina 95 E5": 1.4691831111591216,
+            "Precio Gasolina 98 E5": 1.5874931467528137,
+            "Precio Gasoleo B": 1.0344620832817093,
+            "Precio Biodiesel": 1.385037634408602
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.3832581312241046,
+            "Precio Gasoleo B": 1.037747250976829,
+            "Precio Gasoleo Premium": 1.446903382320001,
+            "Precio Gasolina 95 E5": 1.4740585047419172,
+            "Precio Gasolina 98 E5": 1.5917979185275186,
+            "Precio Biodiesel": 1.3796292697422736
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3903131490820175,
+            "Precio Gasoleo B": 1.0442861194521085,
+            "Precio Gasoleo Premium": 1.4531649483317481,
+            "Precio Gasolina 95 E5": 1.4801158170383815,
+            "Precio Gasolina 98 E5": 1.5975035373997142,
+            "Precio Biodiesel": 1.3799554079696394
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3781866322363148,
+            "Precio Gasoleo B": 1.0214006336037342,
+            "Precio Gasoleo Premium": 1.4440416409826677,
+            "Precio Gasolina 95 E5": 1.4703000275114784,
+            "Precio Gasolina 98 E5": 1.5867971200543243,
+            "Precio Biodiesel": 1.3328709677419355
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4195661812424916,
+            "Precio Gasoleo Premium": 1.4789631770808824,
+            "Precio Gasolina 95 E5": 1.5052136378263814,
+            "Precio Gasolina 98 E5": 1.619586344035229,
+            "Precio Gasoleo B": 1.0686137992831544
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.3592072617158302,
+            "Precio Gasolina 95 E5": 1.4521045870560376,
+            "Precio Gasolina 98 E5": 1.5743325267528248,
+            "Precio Gasoleo Premium": 1.4310058457835155,
+            "Precio Gasoleo B": 1.027426390541241,
+            "Precio Biodiesel": 1.3528641679464286
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3541218180272199,
+            "Precio Gasoleo B": 1.0527398373522527,
+            "Precio Gasoleo Premium": 1.4155133504503215,
+            "Precio Gasolina 95 E5": 1.4534758247557538,
+            "Precio Gasolina 98 E5": 1.5689603154407452,
+            "Precio Biodiesel": 1.3424470046082948
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3131853471207027,
+            "Precio Gasoleo B": 0.9976057802087857,
+            "Precio Gasoleo Premium": 1.3875070836370653,
+            "Precio Gasolina 95 E5": 1.408394078365691,
+            "Precio Gasolina 98 E5": 1.5318412966985864,
+            "Precio Biodiesel": 1.324926832844575
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.331392748123092,
+            "Precio Gasoleo B": 1.0434206880853276,
+            "Precio Gasoleo Premium": 1.3995287792536366,
+            "Precio Gasolina 95 E5": 1.4260645161290324,
+            "Precio Gasolina 98 E5": 1.5421204739960501,
+            "Precio Biodiesel": 1.287838709677419
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.360399848940319,
+            "Precio Gasoleo B": 1.0584266773484057,
+            "Precio Gasoleo Premium": 1.4200381844634464,
+            "Precio Gasolina 95 E5": 1.4489628844598752,
+            "Precio Gasolina 98 E5": 1.5642908280915746,
+            "Precio Biodiesel": 1.3831720430107528
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3717572211240643,
+            "Precio Gasoleo B": 1.0517830794732104,
+            "Precio Gasoleo Premium": 1.4383071881269995,
+            "Precio Gasolina 95 E5": 1.4599103338934902,
+            "Precio Gasolina 98 E5": 1.575659984815482,
+            "Precio Biodiesel": 1.3091182795698924
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.332666011426994,
+            "Precio Gasoleo B": 0.9966870802688925,
+            "Precio Gasoleo Premium": 1.4081260470209387,
+            "Precio Gasolina 95 E5": 1.4309529399384011,
+            "Precio Gasolina 98 E5": 1.5493124949117305,
+            "Precio Biodiesel": 1.3153573200992554
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3769237993397345,
+            "Precio Gasoleo B": 1.0495983069700796,
+            "Precio Gasoleo Premium": 1.4398110341052686,
+            "Precio Gasolina 95 E5": 1.4748176092615792,
+            "Precio Gasolina 98 E5": 1.590095515062984,
+            "Precio Biodiesel": 1.327139784946236
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0516510975113533,
+            "Precio Gasolina 95 E5": 1.0926555673055731,
+            "Precio Gasolina 98 E5": 1.1806065639128756,
+            "Precio Gasoleo Premium": 1.109706535795865
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.3933293609191624,
+            "Precio Gasoleo B": 1.0395116796440487,
+            "Precio Gasoleo Premium": 1.4578231817271088,
+            "Precio Gasolina 95 E5": 1.4824927882215329,
+            "Precio Gasolina 98 E5": 1.5976167455432104,
+            "Precio Biodiesel": 1.3832857142857145
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1153476702508969,
+            "Precio Gasolina 95 E5": 1.1669318996415765,
+            "Precio Gasolina 98 E5": 1.1951254480286735,
+            "Precio Gasoleo Premium": 1.1454758064516135
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.021233250620347,
+            "Precio Gasoleo Premium": 1.0731806451612909,
+            "Precio Gasolina 95 E5": 1.097789081885856
+        }
+    },
+    "Agosto": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3377822111235929,
+            "Precio Gasoleo B": 1.0665818791516377,
+            "Precio Gasoleo Premium": 1.401019113538884,
+            "Precio Gasolina 95 E5": 1.424990150112501,
+            "Precio Gasolina 98 E5": 1.541482361446612,
+            "Precio Biodiesel": 1.3177683921968633
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3797928917312274,
+            "Precio Gasoleo B": 1.0253262443098146,
+            "Precio Gasolina 95 E5": 1.4702882587407686,
+            "Precio Gasoleo Premium": 1.4443034495487368,
+            "Precio Gasolina 98 E5": 1.5852737687577025,
+            "Precio Biodiesel": 1.3196129032258062
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.387218715596631,
+            "Precio Gasoleo Premium": 1.4518566612854311,
+            "Precio Gasolina 95 E5": 1.472106550766379,
+            "Precio Gasolina 98 E5": 1.5909801732364888,
+            "Precio Gasoleo B": 1.0385606385113093,
+            "Precio Biodiesel": 1.3818046594982074
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.386901295636743,
+            "Precio Gasoleo B": 1.0407064057495434,
+            "Precio Gasoleo Premium": 1.449870046065277,
+            "Precio Gasolina 95 E5": 1.4765353329742947,
+            "Precio Gasolina 98 E5": 1.594219229296922,
+            "Precio Biodiesel": 1.38328007391437
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3935380475983554,
+            "Precio Gasoleo B": 1.0459137623473973,
+            "Precio Gasoleo Premium": 1.4559654500530144,
+            "Precio Gasolina 95 E5": 1.4808404583209385,
+            "Precio Gasolina 98 E5": 1.5969642101684167,
+            "Precio Biodiesel": 1.3817505798018135
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3814033649064617,
+            "Precio Gasoleo B": 1.0246980208994707,
+            "Precio Gasoleo Premium": 1.4448145491573194,
+            "Precio Gasolina 95 E5": 1.4730037226399462,
+            "Precio Gasolina 98 E5": 1.586629725777873,
+            "Precio Biodiesel": 1.336123655913979
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4208446048356347,
+            "Precio Gasoleo Premium": 1.4813256793886498,
+            "Precio Gasolina 95 E5": 1.5027131570378618,
+            "Precio Gasolina 98 E5": 1.61643631808893,
+            "Precio Gasoleo B": 1.0689866103430623
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.36351641662212,
+            "Precio Gasolina 95 E5": 1.4527348172809715,
+            "Precio Gasolina 98 E5": 1.5736797081407816,
+            "Precio Gasoleo Premium": 1.4342279985430244,
+            "Precio Gasoleo B": 1.0317307322774214,
+            "Precio Biodiesel": 1.358942833778216
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3572484852925584,
+            "Precio Gasoleo B": 1.0553616705343298,
+            "Precio Gasoleo Premium": 1.4182506860694806,
+            "Precio Gasolina 95 E5": 1.4549181732449998,
+            "Precio Gasolina 98 E5": 1.5697876253009877,
+            "Precio Biodiesel": 1.3468225806451617
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.316391581098431,
+            "Precio Gasoleo B": 1.0028494837342568,
+            "Precio Gasoleo Premium": 1.3881206044901706,
+            "Precio Gasolina 95 E5": 1.406874941356262,
+            "Precio Gasolina 98 E5": 1.5284365228114687,
+            "Precio Biodiesel": 1.3334706093189965
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3361356736242889,
+            "Precio Gasoleo B": 1.045185223725286,
+            "Precio Gasoleo Premium": 1.4044029095509172,
+            "Precio Gasolina 95 E5": 1.4241199596774197,
+            "Precio Gasolina 98 E5": 1.5399354838709676,
+            "Precio Biodiesel": 1.2902580645161283
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.364507786682507,
+            "Precio Gasoleo B": 1.056673029396462,
+            "Precio Gasoleo Premium": 1.4240007411068454,
+            "Precio Gasolina 95 E5": 1.4522258796536165,
+            "Precio Gasolina 98 E5": 1.5676083869122188,
+            "Precio Biodiesel": 1.3866623655913979
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3770730877087625,
+            "Precio Gasoleo B": 1.0537569172810746,
+            "Precio Gasoleo Premium": 1.4429146076312973,
+            "Precio Gasolina 95 E5": 1.4630181966084035,
+            "Precio Gasolina 98 E5": 1.5786159607252341,
+            "Precio Biodiesel": 1.319881720430108
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3379901863627364,
+            "Precio Gasoleo B": 1.004040918879979,
+            "Precio Gasoleo Premium": 1.4115321966524859,
+            "Precio Gasolina 95 E5": 1.4345212528711855,
+            "Precio Gasolina 98 E5": 1.5503931087605918,
+            "Precio Biodiesel": 1.3211405368824725
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3787887446362113,
+            "Precio Gasoleo B": 1.051523675972696,
+            "Precio Gasoleo Premium": 1.4398641856709584,
+            "Precio Gasolina 95 E5": 1.475242997693085,
+            "Precio Gasolina 98 E5": 1.59026357239545,
+            "Precio Biodiesel": 1.33747311827957
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0591479798000665,
+            "Precio Gasolina 95 E5": 1.1032539602077447,
+            "Precio Gasolina 98 E5": 1.1915939693952224,
+            "Precio Gasoleo Premium": 1.1166425201527248
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.397053876054549,
+            "Precio Gasoleo B": 1.0465855154485855,
+            "Precio Gasoleo Premium": 1.4601401349606855,
+            "Precio Gasolina 95 E5": 1.4919297177246411,
+            "Precio Gasolina 98 E5": 1.6065157175514815,
+            "Precio Biodiesel": 1.3898940092165897
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1150645161290322,
+            "Precio Gasolina 95 E5": 1.1604838709677423,
+            "Precio Gasolina 98 E5": 1.1904802867383515,
+            "Precio Gasoleo Premium": 1.143403225806452
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.0179677419354842,
+            "Precio Gasoleo Premium": 1.0690354838709673,
+            "Precio Gasolina 95 E5": 1.0887245657568243
+        }
+    },
+    "Septiembre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3579693305227747,
+            "Precio Gasoleo B": 1.0903285718823454,
+            "Precio Gasoleo Premium": 1.4214811662249986,
+            "Precio Gasolina 95 E5": 1.4136552918096263,
+            "Precio Gasolina 98 E5": 1.5300380016690156,
+            "Precio Biodiesel": 1.3379439009661838,
+            "Precio Bioetanol": 1.3868568181818182,
+            "Precio Gases licuados del petróleo": 0.8042500000000001
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3987612962563898,
+            "Precio Gasoleo B": 1.0453586714798475,
+            "Precio Gasolina 95 E5": 1.4598926277058832,
+            "Precio Gasoleo Premium": 1.46396869626716,
+            "Precio Gasolina 98 E5": 1.5743800109476607,
+            "Precio Biodiesel": 1.336666666666666,
+            "Precio Gas Natural Comprimido": 0.9900000000000001,
+            "Precio Gases licuados del petróleo": 0.8405624999999999
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.4057102873513267,
+            "Precio Gasoleo Premium": 1.4706064335879119,
+            "Precio Gasolina 95 E5": 1.4609919282781392,
+            "Precio Gasolina 98 E5": 1.5803187996570645,
+            "Precio Gasoleo B": 1.0582208287557944,
+            "Precio Biodiesel": 1.3907801742919392,
+            "Precio Gases licuados del petróleo": 0.7851277173913044,
+            "Precio Gas Natural Comprimido": 1.3920238095238089,
+            "Precio Bioetanol": 1.5167692307692304
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.4058749978896248,
+            "Precio Gasoleo B": 1.0639167804290213,
+            "Precio Gasoleo Premium": 1.4690844989358578,
+            "Precio Gasolina 95 E5": 1.467289064596691,
+            "Precio Gasolina 98 E5": 1.584602037650499,
+            "Precio Biodiesel": 1.3979430788505207,
+            "Precio Gases licuados del petróleo": 0.78988468013468
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.4136505679461515,
+            "Precio Gasoleo B": 1.0691235343989336,
+            "Precio Gasoleo Premium": 1.4759956739096307,
+            "Precio Gasolina 95 E5": 1.4702096092264911,
+            "Precio Gasolina 98 E5": 1.5863906119875009,
+            "Precio Biodiesel": 1.399398148148148,
+            "Precio Bioetanol": 1.3443181818181815,
+            "Precio Gases licuados del petróleo": 0.8003949579831933
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.403332367212656,
+            "Precio Gasoleo B": 1.0466616283494792,
+            "Precio Gasoleo Premium": 1.4670768308521729,
+            "Precio Gasolina 95 E5": 1.4616082535254609,
+            "Precio Gasolina 98 E5": 1.5762551410151198,
+            "Precio Biodiesel": 1.3447666666666673,
+            "Precio Gases licuados del petróleo": 0.806
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4436020307304214,
+            "Precio Gasoleo Premium": 1.503658508097471,
+            "Precio Gasolina 95 E5": 1.4879122687360122,
+            "Precio Gasolina 98 E5": 1.602095091105513,
+            "Precio Gasoleo B": 1.0956687187187188,
+            "Precio Gases licuados del petróleo": 0.809
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.3821018052987752,
+            "Precio Gasolina 95 E5": 1.4437761968409872,
+            "Precio Gasolina 98 E5": 1.5652434837712144,
+            "Precio Gasoleo Premium": 1.4534949987905255,
+            "Precio Gasoleo B": 1.0530544950105247,
+            "Precio Biodiesel": 1.3750209235300126,
+            "Precio Gases licuados del petróleo": 0.7083205207835644,
+            "Precio Bioetanol": 1.3760454545454552
+        },
+        "Galicia": {
+            "Precio Gasoleo A": 1.3780500688129158,
+            "Precio Gasoleo B": 1.0787520203236258,
+            "Precio Gasoleo Premium": 1.4390279112041677,
+            "Precio Gasolina 95 E5": 1.4432504806807414,
+            "Precio Gasolina 98 E5": 1.558299678368853,
+            "Precio Biodiesel": 1.3683380952380952,
+            "Precio Bioetanol": 1.3984090909090912,
+            "Precio Gases licuados del petróleo": 0.7627954545454546
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3338564632873136,
+            "Precio Gasoleo B": 1.022665686431738,
+            "Precio Gasoleo Premium": 1.4065357397913247,
+            "Precio Gasolina 95 E5": 1.3942607357061105,
+            "Precio Gasolina 98 E5": 1.5141619711373384,
+            "Precio Biodiesel": 1.3372080555555559,
+            "Precio Gases licuados del petróleo": 0.7911142857142857
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3575233026046243,
+            "Precio Gasoleo B": 1.0687140860215054,
+            "Precio Gasoleo Premium": 1.4254280261437913,
+            "Precio Gasolina 95 E5": 1.4125156415343922,
+            "Precio Gasolina 98 E5": 1.5291236943358901,
+            "Precio Biodiesel": 1.3087000000000004,
+            "Precio Gases licuados del petróleo": 0.809
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3819169591471838,
+            "Precio Gasoleo B": 1.086113983585858,
+            "Precio Gasoleo Premium": 1.441585559040205,
+            "Precio Gasolina 95 E5": 1.437861604888302,
+            "Precio Gasolina 98 E5": 1.553531703601032,
+            "Precio Biodiesel": 1.4033666666666673,
+            "Precio Gases licuados del petróleo": 0.7930004058441561,
+            "Precio Bioetanol": 1.5272692307692306
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3970299844449352,
+            "Precio Gasoleo B": 1.0775326680062596,
+            "Precio Gasoleo Premium": 1.463319040407998,
+            "Precio Gasolina 95 E5": 1.4550432976296193,
+            "Precio Gasolina 98 E5": 1.5705527794269936,
+            "Precio Biodiesel": 1.3298888888888885,
+            "Precio Gases licuados del petróleo": 0.809
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3558194463571718,
+            "Precio Gasoleo B": 1.0225857449593054,
+            "Precio Gasoleo Premium": 1.43287864885757,
+            "Precio Gasolina 95 E5": 1.424578360426372,
+            "Precio Gasolina 98 E5": 1.5444762549812017,
+            "Precio Biodiesel": 1.3377233100233097,
+            "Precio Gases licuados del petróleo": 0.7877272727272729,
+            "Precio Bioetanol": 1.25
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3992077103778564,
+            "Precio Gasoleo B": 1.07818897996357,
+            "Precio Gasoleo Premium": 1.4605421919128385,
+            "Precio Gasolina 95 E5": 1.464694903702031,
+            "Precio Gasolina 98 E5": 1.5797127810803449,
+            "Precio Biodiesel": 1.3644444444444446,
+            "Precio Bioetanol": 1.362333333333333,
+            "Precio Gases licuados del petróleo": 0.8056666666666666
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.076761486082315,
+            "Precio Gasolina 95 E5": 1.1096980477162193,
+            "Precio Gasolina 98 E5": 1.1970605447157858,
+            "Precio Gasoleo Premium": 1.136471094095022,
+            "Precio Gases licuados del petróleo": 0.553
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.413458845900985,
+            "Precio Gasoleo B": 1.056987520525452,
+            "Precio Gasoleo Premium": 1.4762343711843708,
+            "Precio Gasolina 95 E5": 1.4784859580474483,
+            "Precio Gasolina 98 E5": 1.5935051096491226,
+            "Precio Biodiesel": 1.4097440476190475,
+            "Precio Gases licuados del petróleo": 0.7881071428571427
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1318592592592593,
+            "Precio Gasolina 95 E5": 1.1660925925925931,
+            "Precio Gasolina 98 E5": 1.194903703703703,
+            "Precio Gasoleo Premium": 1.1594166666666665
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.0365179487179483,
+            "Precio Gasoleo Premium": 1.0878400000000001,
+            "Precio Gasolina 95 E5": 1.0964410256410255
+        }
+    },
+    "Octubre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3263790701298785,
+            "Precio Gasoleo B": 1.067468806006329,
+            "Precio Gasoleo Premium": 1.390144313527461,
+            "Precio Gasolina 95 E5": 1.3738414785162216,
+            "Precio Gasolina 98 E5": 1.4908160750874704,
+            "Precio Biodiesel": 1.31096306685367,
+            "Precio Bioetanol": 1.3719247311827958,
+            "Precio Gases licuados del petróleo": 0.7786923076923077
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.368173206310315,
+            "Precio Gasoleo B": 1.0208085227045105,
+            "Precio Gasolina 95 E5": 1.4161326436854087,
+            "Precio Gasoleo Premium": 1.4334883168706554,
+            "Precio Gasolina 98 E5": 1.5320822405485923,
+            "Precio Biodiesel": 1.3215913978494627,
+            "Precio Gases licuados del petróleo": 0.794193548387097,
+            "Precio Gas Natural Comprimido": 0.9899999999999993
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.3754760228097727,
+            "Precio Gasoleo B": 1.0367146464444799,
+            "Precio Gasoleo Premium": 1.4414555015541948,
+            "Precio Gasolina 95 E5": 1.4209953623344285,
+            "Precio Gasolina 98 E5": 1.5416347569279465,
+            "Precio Biodiesel": 1.3636605234029093,
+            "Precio Gases licuados del petróleo": 0.7819127994717974,
+            "Precio Gas Natural Comprimido": 1.1264784946236555,
+            "Precio Bioetanol": 1.5181290322580643
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.3772251064885899,
+            "Precio Gasoleo B": 1.03861210266071,
+            "Precio Gasoleo Premium": 1.4409221767633846,
+            "Precio Gasolina 95 E5": 1.4273890051224538,
+            "Precio Gasolina 98 E5": 1.5456143452629634,
+            "Precio Biodiesel": 1.3742712209942851,
+            "Precio Gases licuados del petróleo": 0.7837066184649607
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3849117690389687,
+            "Precio Gasoleo B": 1.0417743174218952,
+            "Precio Gasoleo Premium": 1.4480691815288749,
+            "Precio Gasolina 95 E5": 1.4303525279335914,
+            "Precio Gasolina 98 E5": 1.5477465067763754,
+            "Precio Biodiesel": 1.3747132616487456,
+            "Precio Bioetanol": 1.3675,
+            "Precio Gases licuados del petróleo": 0.7840655913978499
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3728770247016306,
+            "Precio Gasoleo B": 1.024361246428774,
+            "Precio Gasoleo Premium": 1.4368756308686383,
+            "Precio Gasolina 95 E5": 1.421646015310347,
+            "Precio Gasolina 98 E5": 1.5386064378775037,
+            "Precio Biodiesel": 1.3452365591397852,
+            "Precio Gases licuados del petróleo": 0.782
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4243608198231195,
+            "Precio Gasoleo Premium": 1.4830224773811362,
+            "Precio Gasolina 95 E5": 1.4536308273758067,
+            "Precio Gasolina 98 E5": 1.5666957962550985,
+            "Precio Gasoleo B": 1.06548299912816,
+            "Precio Gases licuados del petróleo": 0.7830000000000003
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.3510756353921136,
+            "Precio Gasolina 95 E5": 1.4025963023043482,
+            "Precio Gasolina 98 E5": 1.5272407687603673,
+            "Precio Gasoleo Premium": 1.4235551955052896,
+            "Precio Gasoleo B": 1.02795231716821,
+            "Precio Biodiesel": 1.3407304684680148,
+            "Precio Bioetanol": 1.3820000000000001,
+            "Precio Gases licuados del petróleo": 0.7249700721125787,
+            "Precio Gas Natural Comprimido": 0.9989999999999997
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.7838446236559137,
+            "Precio Gasoleo A": 1.348985014135868,
+            "Precio Gasoleo B": 1.0529459746186733,
+            "Precio Gasoleo Premium": 1.410407550181815,
+            "Precio Gasolina 98 E5": 1.518999266078484,
+            "Precio Gasolina 95 E5": 1.403428457456703,
+            "Precio Biodiesel": 1.347575091575092,
+            "Precio Bioetanol": 1.368
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.303788453163063,
+            "Precio Gasoleo B": 0.9969765631626576,
+            "Precio Gasoleo Premium": 1.3767171513262615,
+            "Precio Gasolina 95 E5": 1.3553113401904353,
+            "Precio Gasolina 98 E5": 1.4773050123897336,
+            "Precio Biodiesel": 1.306604838709677,
+            "Precio Gases licuados del petróleo": 0.7822645161290326
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.331542779461327,
+            "Precio Gasoleo B": 1.0434873395768296,
+            "Precio Gasoleo Premium": 1.399653181530677,
+            "Precio Gasolina 95 E5": 1.3752137656810037,
+            "Precio Gasolina 98 E5": 1.4926739727253733,
+            "Precio Biodiesel": 1.2777419354838713,
+            "Precio Gases licuados del petróleo": 0.7800000000000001
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3536278103586505,
+            "Precio Gasoleo B": 1.0568082539100685,
+            "Precio Gasoleo Premium": 1.4138569652575712,
+            "Precio Gasolina 95 E5": 1.3988257526728305,
+            "Precio Gasolina 98 E5": 1.5148607507449006,
+            "Precio Gases licuados del petróleo": 0.7751400631045796,
+            "Precio Biodiesel": 1.3747354838709673,
+            "Precio Bioetanol": 1.525870967741936
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.365240519184499,
+            "Precio Gasoleo B": 1.0495248798552201,
+            "Precio Gasoleo Premium": 1.432303340348912,
+            "Precio Gasolina 95 E5": 1.4127220432003842,
+            "Precio Gasolina 98 E5": 1.5305659707161618,
+            "Precio Biodiesel": 1.3061612903225805,
+            "Precio Gases licuados del petróleo": 0.7830000000000003
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.328569375420354,
+            "Precio Gasoleo B": 0.9985844467396844,
+            "Precio Gasoleo Premium": 1.4079957229743463,
+            "Precio Gasolina 95 E5": 1.3856553551299573,
+            "Precio Gasolina 98 E5": 1.5117929565437584,
+            "Precio Biodiesel": 1.3095055267313334,
+            "Precio Gases licuados del petróleo": 0.7791182795698921,
+            "Precio Bioetanol": 1.25
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.36808749072865,
+            "Precio Gasoleo B": 1.0519455314648332,
+            "Precio Gasoleo Premium": 1.4304647895378562,
+            "Precio Gasolina 95 E5": 1.4229093882259374,
+            "Precio Gasolina 98 E5": 1.5383261772732553,
+            "Precio Biodiesel": 1.340516129032258,
+            "Precio Bioetanol": 1.3751290322580645,
+            "Precio Gases licuados del petróleo": 0.7809999999999998
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0569321103062352,
+            "Precio Gasolina 95 E5": 1.0781347502408765,
+            "Precio Gasolina 98 E5": 1.1623527490463585,
+            "Precio Gasoleo Premium": 1.1145387950898813,
+            "Precio Gases licuados del petróleo": 0.5495161290322581
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.3870007542464047,
+            "Precio Gasoleo B": 1.0303377827215425,
+            "Precio Gasoleo Premium": 1.4496016101632507,
+            "Precio Gasolina 95 E5": 1.4373145824019657,
+            "Precio Gasolina 98 E5": 1.5557155203787276,
+            "Precio Biodiesel": 1.3826002304147462,
+            "Precio Gases licuados del petróleo": 0.7890023041474659
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.103286738351254,
+            "Precio Gasolina 95 E5": 1.1280465949820793,
+            "Precio Gasolina 98 E5": 1.155143369175628,
+            "Precio Gasoleo Premium": 1.1278548387096772
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.9991722497932171,
+            "Precio Gasoleo Premium": 1.0502279569892472,
+            "Precio Gasolina 95 E5": 1.0454170802315963
+        }
+    },
+    "Noviembre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3169804167794994,
+            "Precio Gasoleo B": 1.0576927213868006,
+            "Precio Gasoleo Premium": 1.381552899658342,
+            "Precio Gasolina 95 E5": 1.361399831241241,
+            "Precio Gasolina 98 E5": 1.4775230739461556,
+            "Precio Biodiesel": 1.2995855072463767,
+            "Precio Bioetanol": 1.3631222222222223,
+            "Precio Gases licuados del petróleo": 0.7788813186813187
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3552517972253748,
+            "Precio Gasoleo B": 1.0090493912728011,
+            "Precio Gasolina 95 E5": 1.4001549503484256,
+            "Precio Gasoleo Premium": 1.4215707136272369,
+            "Precio Gasolina 98 E5": 1.5169611312811915,
+            "Precio Gases licuados del petróleo": 0.7869500000000003,
+            "Precio Biodiesel": 1.3058888888888889,
+            "Precio Gas Natural Comprimido": 0.9899999999999994
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.361254781671613,
+            "Precio Gasoleo Premium": 1.4274620295103928,
+            "Precio Gasolina 95 E5": 1.4082828914614496,
+            "Precio Gasolina 98 E5": 1.529043034558909,
+            "Precio Gasoleo B": 1.022914134132191,
+            "Precio Gases licuados del petróleo": 0.7792376705653024,
+            "Precio Biodiesel": 1.3532253968253967,
+            "Precio Gas Natural Comprimido": 1.0418000000000005,
+            "Precio Bioetanol": 1.5097666666666665
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.363734941351797,
+            "Precio Gasoleo B": 1.0239924669142215,
+            "Precio Gasoleo Premium": 1.4283968096180468,
+            "Precio Gasolina 95 E5": 1.4151837220941146,
+            "Precio Gasolina 98 E5": 1.534281011100274,
+            "Precio Biodiesel": 1.3599164625188493,
+            "Precio Gases licuados del petróleo": 0.7823337676783731,
+            "Precio Gas Natural Comprimido": 0.7830000000000001
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3739605417525926,
+            "Precio Gasoleo B": 1.029616757156954,
+            "Precio Gasoleo Premium": 1.4377694591313182,
+            "Precio Gasolina 95 E5": 1.4197351614069025,
+            "Precio Gasolina 98 E5": 1.53754794260011,
+            "Precio Gases licuados del petróleo": 0.7812443627450976,
+            "Precio Biodiesel": 1.3660377995642705,
+            "Precio Bioetanol": 1.478
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3586777535412837,
+            "Precio Gasoleo B": 1.0116002211845658,
+            "Precio Gasoleo Premium": 1.4232883578083324,
+            "Precio Gasolina 95 E5": 1.4101016745991077,
+            "Precio Gasolina 98 E5": 1.5273831909338476,
+            "Precio Gases licuados del petróleo": 0.782,
+            "Precio Biodiesel": 1.332569444444445
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4181244638225197,
+            "Precio Gasoleo Premium": 1.47789867281841,
+            "Precio Gasolina 95 E5": 1.4464788548107055,
+            "Precio Gasolina 98 E5": 1.559044268837804,
+            "Precio Gases licuados del petróleo": 0.7830000000000003,
+            "Precio Gasoleo B": 1.05691981981982
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.336475896976098,
+            "Precio Gasolina 95 E5": 1.3897145456532445,
+            "Precio Gasolina 98 E5": 1.5156830515322453,
+            "Precio Gasoleo Premium": 1.4090192542533493,
+            "Precio Gasoleo B": 1.01642032293601,
+            "Precio Gases licuados del petróleo": 0.7265458552203602,
+            "Precio Biodiesel": 1.3262632793198217,
+            "Precio Bioetanol": 1.3820000000000003,
+            "Precio Gas Natural Comprimido": 0.9989999999999996
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.7815233333333331,
+            "Precio Gasoleo A": 1.337682942613483,
+            "Precio Gasoleo B": 1.041394545707412,
+            "Precio Gasoleo Premium": 1.399482420616294,
+            "Precio Gasolina 98 E5": 1.5078886929718551,
+            "Precio Gasolina 95 E5": 1.3922651434844397,
+            "Precio Biodiesel": 1.332915151515152,
+            "Precio Bioetanol": 1.3524230769230774
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.291159278967948,
+            "Precio Gasoleo B": 0.984035363959536,
+            "Precio Gasoleo Premium": 1.365537295603879,
+            "Precio Gasolina 95 E5": 1.343133052764356,
+            "Precio Gasolina 98 E5": 1.4672078179023236,
+            "Precio Biodiesel": 1.2914254629629622,
+            "Precio Gases licuados del petróleo": 0.7815000000000002
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3182388820159454,
+            "Precio Gasoleo B": 1.028815490050674,
+            "Precio Gasoleo Premium": 1.3856989934640518,
+            "Precio Gasolina 95 E5": 1.3680603779975253,
+            "Precio Gasolina 98 E5": 1.4841980134991606,
+            "Precio Biodiesel": 1.2656333333333332,
+            "Precio Gases licuados del petróleo": 0.7800000000000001
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.3422497151838464,
+            "Precio Gasoleo B": 1.0476825441919195,
+            "Precio Gasoleo Premium": 1.4023776571370457,
+            "Precio Gasolina 95 E5": 1.3916245284723097,
+            "Precio Gasolina 98 E5": 1.5078644620388284,
+            "Precio Gases licuados del petróleo": 0.7781346372688479,
+            "Precio Biodiesel": 1.3646466666666666,
+            "Precio Bioetanol": 1.5170166666666665
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3522704168536386,
+            "Precio Gasoleo B": 1.0373522994759863,
+            "Precio Gasoleo Premium": 1.4202349444931173,
+            "Precio Gasolina 95 E5": 1.3982714373901757,
+            "Precio Gasolina 98 E5": 1.5167483112983362,
+            "Precio Gases licuados del petróleo": 0.7830000000000003,
+            "Precio Biodiesel": 1.2836111111111115
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3143491985931657,
+            "Precio Gasoleo B": 0.984119120883495,
+            "Precio Gasoleo Premium": 1.3950186219797058,
+            "Precio Gasolina 95 E5": 1.3715772689463768,
+            "Precio Gasolina 98 E5": 1.4955244524169558,
+            "Precio Biodiesel": 1.2978587412587415,
+            "Precio Gases licuados del petróleo": 0.7786666666666663,
+            "Precio Bioetanol": 1.25
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3566254245971245,
+            "Precio Gasoleo B": 1.0444875318761389,
+            "Precio Gasoleo Premium": 1.4182923783781087,
+            "Precio Gasolina 95 E5": 1.4100534848776538,
+            "Precio Gasolina 98 E5": 1.5261619151097938,
+            "Precio Biodiesel": 1.3356666666666668,
+            "Precio Gases licuados del petróleo": 0.7811142857142858,
+            "Precio Bioetanol": 1.3790000000000007
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0382231865463802,
+            "Precio Gasolina 95 E5": 1.050613475505705,
+            "Precio Gasolina 98 E5": 1.1365992898214023,
+            "Precio Gasoleo Premium": 1.0966192753785504,
+            "Precio Gases licuados del petróleo": 0.5282000000000001
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.373143500741462,
+            "Precio Gasoleo B": 1.023839345922277,
+            "Precio Gasoleo Premium": 1.438210072703516,
+            "Precio Gasolina 95 E5": 1.4243442894617155,
+            "Precio Gasolina 98 E5": 1.542099683283055,
+            "Precio Biodiesel": 1.3658863095238096,
+            "Precio Gases licuados del petróleo": 0.7815952380952379
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.0919074074074075,
+            "Precio Gasolina 95 E5": 1.112640740740741,
+            "Precio Gasolina 98 E5": 1.141603703703704,
+            "Precio Gasoleo Premium": 1.1218750000000004
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.9845025641025641,
+            "Precio Gasoleo Premium": 1.0363644444444449,
+            "Precio Gasolina 95 E5": 1.0274410256410254
+        }
+    },
+    "Diciembre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.3340424465465741,
+            "Precio Gasoleo B": 1.0690717296578487,
+            "Precio Gasoleo Premium": 1.3986061160288734,
+            "Precio Gasolina 95 E5": 1.371018562389939,
+            "Precio Gasolina 98 E5": 1.4880538350069548,
+            "Precio Biodiesel": 1.3152735783501206,
+            "Precio Bioetanol": 1.3600838709677425,
+            "Precio Gases licuados del petróleo": 0.7970576036866357
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.3677296475562648,
+            "Precio Gasoleo B": 1.0203048414356026,
+            "Precio Gasolina 95 E5": 1.4097040766824405,
+            "Precio Gasoleo Premium": 1.433590609539111,
+            "Precio Gasolina 98 E5": 1.5264546800289513,
+            "Precio Gases licuados del petróleo": 0.8007757296466971,
+            "Precio Biodiesel": 1.312666666666667,
+            "Precio Gas Natural Comprimido": 0.9899999999999993
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.37039768727205,
+            "Precio Gasoleo Premium": 1.4361611957420075,
+            "Precio Gasolina 95 E5": 1.4159025953856195,
+            "Precio Gasolina 98 E5": 1.5363871003680287,
+            "Precio Gasoleo B": 1.031633155348231,
+            "Precio Gases licuados del petróleo": 0.7935414746543779,
+            "Precio Biodiesel": 1.363674217180669,
+            "Precio Gas Natural Comprimido": 1.0576774193548384,
+            "Precio Bioetanol": 1.512258064516129
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.3756028090893713,
+            "Precio Gasoleo B": 1.0320242149820011,
+            "Precio Gasoleo Premium": 1.4399988300548356,
+            "Precio Gasolina 95 E5": 1.4250292277963954,
+            "Precio Gasolina 98 E5": 1.5444268691614105,
+            "Precio Biodiesel": 1.370921630916538,
+            "Precio Gases licuados del petróleo": 0.7950455767350925
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.3882069896358282,
+            "Precio Gasoleo B": 1.0400068121298607,
+            "Precio Gasoleo Premium": 1.4518504146224958,
+            "Precio Gasolina 95 E5": 1.4299863796122299,
+            "Precio Gasolina 98 E5": 1.547837310799498,
+            "Precio Gases licuados del petróleo": 0.795252371916509,
+            "Precio Biodiesel": 1.382813920514442,
+            "Precio Bioetanol": 1.3675000000000002
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.3720013888482165,
+            "Precio Gasoleo B": 1.0203916767077696,
+            "Precio Gasoleo Premium": 1.4363593689073535,
+            "Precio Gasolina 95 E5": 1.4153010153501497,
+            "Precio Gasolina 98 E5": 1.5326771246406166,
+            "Precio Gases licuados del petróleo": 0.797354838709677,
+            "Precio Biodiesel": 1.326645161290323
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.4333920198873893,
+            "Precio Gasoleo Premium": 1.4935776930289124,
+            "Precio Gasolina 95 E5": 1.4574715269772625,
+            "Precio Gasolina 98 E5": 1.5708180457868974,
+            "Precio Gases licuados del petróleo": 0.7958458781362006,
+            "Precio Gasoleo B": 1.0710845442216415
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.3482724434141156,
+            "Precio Gasolina 95 E5": 1.3977869552249629,
+            "Precio Gasolina 98 E5": 1.5235192910712454,
+            "Precio Gasoleo Premium": 1.4201175394487369,
+            "Precio Gasoleo B": 1.0279854166071347,
+            "Precio Gases licuados del petróleo": 0.7316809010253083,
+            "Precio Biodiesel": 1.3382152300370171,
+            "Precio Bioetanol": 1.3820000000000001,
+            "Precio Gas Natural Comprimido": 0.9989999999999996
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.7949698924731187,
+            "Precio Gasoleo A": 1.351356764422635,
+            "Precio Gasoleo B": 1.0530932477164237,
+            "Precio Gasoleo Premium": 1.4132541187572236,
+            "Precio Gasolina 98 E5": 1.5117414288613413,
+            "Precio Gasolina 95 E5": 1.3955562181017351,
+            "Precio Biodiesel": 1.3418553274682308,
+            "Precio Bioetanol": 1.3545357142857146
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.3053335378608637,
+            "Precio Gasoleo B": 0.9947172208284883,
+            "Precio Gasoleo Premium": 1.3797382203447959,
+            "Precio Gasolina 95 E5": 1.3534847256605407,
+            "Precio Gasolina 98 E5": 1.4786453971483438,
+            "Precio Biodiesel": 1.305788978494624,
+            "Precio Gases licuados del petróleo": 0.7974139784946241
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.3350846148762823,
+            "Precio Gasoleo B": 1.0382956750032883,
+            "Precio Gasoleo Premium": 1.40191385199241,
+            "Precio Gasolina 95 E5": 1.3733508931668401,
+            "Precio Gasolina 98 E5": 1.4892636862191186,
+            "Precio Biodiesel": 1.289209677419355,
+            "Precio Gases licuados del petróleo": 0.7971612903225804
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.351732732104906,
+            "Precio Gasoleo B": 1.0614335702235675,
+            "Precio Gasoleo Premium": 1.411785486195977,
+            "Precio Gasolina 95 E5": 1.4007766984732448,
+            "Precio Gasolina 98 E5": 1.5172902569144489,
+            "Precio Gases licuados del petróleo": 0.7941862212872398,
+            "Precio Biodiesel": 1.3719354838709676,
+            "Precio Bioetanol": 1.518580645161291
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.3632864020773172,
+            "Precio Gasoleo B": 1.0467910018788185,
+            "Precio Gasoleo Premium": 1.429870118375722,
+            "Precio Gasolina 95 E5": 1.4106956982158232,
+            "Precio Gasolina 98 E5": 1.5290717698951184,
+            "Precio Gases licuados del petróleo": 0.7974516129032255,
+            "Precio Biodiesel": 1.3095806451612901
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.3287177305177251,
+            "Precio Gasoleo B": 0.9931549231782216,
+            "Precio Gasoleo Premium": 1.40908346358372,
+            "Precio Gasolina 95 E5": 1.3805320618126655,
+            "Precio Gasolina 98 E5": 1.5033952269579287,
+            "Precio Biodiesel": 1.3153656665914728,
+            "Precio Gases licuados del petróleo": 0.7922903225806452,
+            "Precio Bioetanol": 1.25
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.3718424727842538,
+            "Precio Gasoleo B": 1.0553536400493568,
+            "Precio Gasoleo Premium": 1.4335738813532315,
+            "Precio Gasolina 95 E5": 1.4172089164602737,
+            "Precio Gasolina 98 E5": 1.5327256489281562,
+            "Precio Biodiesel": 1.3541612903225815,
+            "Precio Gases licuados del petróleo": 0.7972718894009215,
+            "Precio Bioetanol": 1.3790000000000002
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.0455017281462256,
+            "Precio Gasolina 95 E5": 1.0546261532334504,
+            "Precio Gasolina 98 E5": 1.1432301589994056,
+            "Precio Gasoleo Premium": 1.1065254730358522,
+            "Precio Gases licuados del petróleo": 0.5317419354838709
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.3875923946635513,
+            "Precio Gasoleo B": 1.0309435033635252,
+            "Precio Gasoleo Premium": 1.4518097974203024,
+            "Precio Gasolina 95 E5": 1.428195089700903,
+            "Precio Gasolina 98 E5": 1.5449418272926119,
+            "Precio Biodiesel": 1.3759072580645162,
+            "Precio Gases licuados del petróleo": 0.7964516129032262
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 1.1117992831541212,
+            "Precio Gasolina 95 E5": 1.1276559139784943,
+            "Precio Gasolina 98 E5": 1.154810035842294,
+            "Precio Gasoleo Premium": 1.1389758064516133
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 1.0043070155650795,
+            "Precio Gasoleo Premium": 1.0557677419354847,
+            "Precio Gasolina 95 E5": 1.0473070155650808
+        }
+    }
+}

@@ -1,0 +1,2289 @@
+{
+    "Enero": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.2837902568100412,
+            "Precio Gasoleo B": 0.9752122501172666,
+            "Precio Gasolina 95 E5": 1.356703399081559,
+            "Precio Gasoleo Premium": 1.3581433770492481,
+            "Precio Gasolina 98 E5": 1.4979893193191525,
+            "Precio Biodiesel": 1.3256989247311828,
+            "Precio Gases licuados del petróleo": 0.748678091397849,
+            "Precio Gas Natural Comprimido": 0.9210241935483874,
+            "Precio Gas Natural Licuado": 0.8795000000000001,
+            "Precio Bioetanol": 1.5073548387096778
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.255543478471699,
+            "Precio Gasoleo B": 0.8839264783268228,
+            "Precio Gasolina 95 E5": 1.321522669590314,
+            "Precio Gasoleo Premium": 1.338835876197798,
+            "Precio Gasolina 98 E5": 1.4495530332657256,
+            "Precio Gases licuados del petróleo": 0.731988514985889,
+            "Precio Gas Natural Comprimido": 0.9370922939068096,
+            "Precio Gas Natural Licuado": 0.8566000000000001
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.2318563380188425,
+            "Precio Gasoleo Premium": 1.3161539787802163,
+            "Precio Gasolina 95 E5": 1.3111336228752155,
+            "Precio Gasolina 98 E5": 1.457595549108556,
+            "Precio Gasoleo B": 0.9082984383756094,
+            "Precio Gases licuados del petróleo": 0.6887500960061443,
+            "Precio Biodiesel": 1.1878548387096781,
+            "Precio Gas Natural Comprimido": 0.9010138248847931,
+            "Precio Gas Natural Licuado": 0.8437142857142853
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.2391287786957756,
+            "Precio Gasoleo B": 0.9107113299563191,
+            "Precio Gasoleo Premium": 1.3210052678213424,
+            "Precio Gasolina 95 E5": 1.3268451241491475,
+            "Precio Gasolina 98 E5": 1.4665397239830558,
+            "Precio Gases licuados del petróleo": 0.7223181116897789,
+            "Precio Biodiesel": 1.2011057347670249,
+            "Precio Gas Natural Comprimido": 0.9057500000000004,
+            "Precio Gas Natural Licuado": 0.852666666666667
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.2628643456611721,
+            "Precio Gasoleo B": 0.9131667459034076,
+            "Precio Gasoleo Premium": 1.3382088861087675,
+            "Precio Gasolina 95 E5": 1.330226437177823,
+            "Precio Gasolina 98 E5": 1.4630010614778703,
+            "Precio Gases licuados del petróleo": 0.72876454000179,
+            "Precio Biodiesel": 1.2800752688172043,
+            "Precio Gas Natural Comprimido": 0.905666666666666,
+            "Precio Gas Natural Licuado": 0.8396666666666662
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.2405296422113423,
+            "Precio Gasoleo B": 0.8994807264565431,
+            "Precio Gasoleo Premium": 1.3201867093616,
+            "Precio Gasolina 95 E5": 1.3094743448763357,
+            "Precio Gasolina 98 E5": 1.4433435624310413,
+            "Precio Gases licuados del petróleo": 0.7110573476702512,
+            "Precio Gas Natural Comprimido": 0.8599999999999997,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Biodiesel": 1.2167096774193544
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.3162447331276839,
+            "Precio Gasoleo Premium": 1.390283743633277,
+            "Precio Gasolina 95 E5": 1.3872830941478442,
+            "Precio Gasolina 98 E5": 1.5298852063720558,
+            "Precio Gases licuados del petróleo": 0.7443327674023771,
+            "Precio Gasoleo B": 1.001114114114114
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.2454190184669338,
+            "Precio Gasoleo Premium": 1.3374983999234917,
+            "Precio Gasolina 95 E5": 1.3267325351349575,
+            "Precio Gasolina 98 E5": 1.4826314472773012,
+            "Precio Gases licuados del petróleo": 0.7326632511075344,
+            "Precio Gasoleo B": 0.9166159128835929,
+            "Precio Biodiesel": 1.190402150537635,
+            "Precio Gas Natural Comprimido": 0.8924705882352943,
+            "Precio Gas Natural Licuado": 0.8443749999999995,
+            "Precio Bioetanol": 1.3634193548387095
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.7215219512195125,
+            "Precio Gasoleo A": 1.268386137693083,
+            "Precio Gasoleo B": 0.9373203669119425,
+            "Precio Gasoleo Premium": 1.3391496261970544,
+            "Precio Gasolina 95 E5": 1.3422794750443876,
+            "Precio Gasolina 98 E5": 1.4682154304622308,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.939,
+            "Precio Biodiesel": 1.2789032258064514
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.2389262061644202,
+            "Precio Gasoleo B": 0.8677679628423918,
+            "Precio Gasoleo Premium": 1.3236154130095459,
+            "Precio Gasolina 95 E5": 1.312844870719671,
+            "Precio Gasolina 98 E5": 1.4501094351567265,
+            "Precio Gases licuados del petróleo": 0.7266344086021502,
+            "Precio Gas Natural Comprimido": 0.8857956989247306,
+            "Precio Gas Natural Licuado": 0.8636935483870976,
+            "Precio Biodiesel": 1.211838709677419
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.2504482894269975,
+            "Precio Gasoleo B": 0.9072767360559351,
+            "Precio Gasoleo Premium": 1.3377900460001404,
+            "Precio Gasolina 95 E5": 1.3287892330415751,
+            "Precio Gasolina 98 E5": 1.4632568776575892,
+            "Precio Gases licuados del petróleo": 0.7372499999999997
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.2827580297288605,
+            "Precio Gasoleo Premium": 1.359623353092895,
+            "Precio Gasolina 95 E5": 1.353987971917155,
+            "Precio Gasolina 98 E5": 1.496627264916331,
+            "Precio Gases licuados del petróleo": 0.7470144637804381,
+            "Precio Gasoleo B": 0.967784677419355,
+            "Precio Gas Natural Comprimido": 0.9270625000000008,
+            "Precio Biodiesel": 1.4192338709677415,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Bioetanol": 1.524999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.2190368714474966,
+            "Precio Gasoleo B": 0.9232359547928581,
+            "Precio Gasoleo Premium": 1.2934542231595807,
+            "Precio Gasolina 95 E5": 1.2995939963211416,
+            "Precio Gasolina 98 E5": 1.4286707672018866,
+            "Precio Gases licuados del petróleo": 0.6915596912048527,
+            "Precio Gas Natural Comprimido": 0.9423333333333337,
+            "Precio Gas Natural Licuado": 0.8490000000000001
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.2393553738690017,
+            "Precio Gasoleo B": 0.8649901922211423,
+            "Precio Gasolina 95 E5": 1.314488559097495,
+            "Precio Gasoleo Premium": 1.3328715061347693,
+            "Precio Gasolina 98 E5": 1.4646383379984393,
+            "Precio Gases licuados del petróleo": 0.7244248847926267,
+            "Precio Gas Natural Comprimido": 0.939
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.2836509447724307,
+            "Precio Gasoleo B": 0.9619145818290626,
+            "Precio Gasoleo Premium": 1.3557311471325035,
+            "Precio Gasolina 95 E5": 1.3543323366664028,
+            "Precio Gasolina 98 E5": 1.4820673075934871,
+            "Precio Gases licuados del petróleo": 0.7550769230769231,
+            "Precio Gas Natural Comprimido": 0.9083870967741942,
+            "Precio Bioetanol": 1.5115806451612905,
+            "Precio Gas Natural Licuado": 0.84
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 1.001736110291782,
+            "Precio Gasolina 95 E5": 1.0549057694853767,
+            "Precio Gasolina 98 E5": 1.178809111412636,
+            "Precio Gasoleo Premium": 1.106777608466696,
+            "Precio Gases licuados del petróleo": 0.5778803763440857
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.2734862624523464,
+            "Precio Gasoleo B": 0.9121715631615772,
+            "Precio Gasoleo Premium": 1.3483778087255045,
+            "Precio Gasolina 95 E5": 1.3424555332223718,
+            "Precio Gasolina 98 E5": 1.473893675402793,
+            "Precio Biodiesel": 1.2481827956989249,
+            "Precio Gases licuados del petróleo": 0.7364674090349211
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.9886720430107527,
+            "Precio Gasolina 95 E5": 1.0298960573476703,
+            "Precio Gasolina 98 E5": 1.0595645161290321,
+            "Precio Gasoleo Premium": 1.0229161290322577
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.876531017369727,
+            "Precio Gasoleo Premium": 0.919145161290323,
+            "Precio Gasolina 95 E5": 0.9456104218362281
+        }
+    },
+    "Febrero": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.240174365621977,
+            "Precio Gasoleo B": 0.9421533138196115,
+            "Precio Gasolina 95 E5": 1.3314838198916557,
+            "Precio Gasoleo Premium": 1.3213753202613345,
+            "Precio Gasolina 98 E5": 1.47955228574889,
+            "Precio Biodiesel": 1.2847426108374385,
+            "Precio Gases licuados del petróleo": 0.7521630094043886,
+            "Precio Gas Natural Comprimido": 0.9197500000000003,
+            "Precio Gas Natural Licuado": 0.8795000000000001,
+            "Precio Bioetanol": 1.5080000000000005
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.218993766540202,
+            "Precio Gasoleo B": 0.8542868637042514,
+            "Precio Gasolina 95 E5": 1.301856174323234,
+            "Precio Gasoleo Premium": 1.3043563540997731,
+            "Precio Gasolina 98 E5": 1.4327639847780531,
+            "Precio Gases licuados del petróleo": 0.732010700710742,
+            "Precio Gas Natural Comprimido": 0.9382045019157086,
+            "Precio Gas Natural Licuado": 0.8566000000000001
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.19128790908489,
+            "Precio Gasoleo Premium": 1.2768320164093963,
+            "Precio Gasolina 95 E5": 1.2926559228646364,
+            "Precio Gasolina 98 E5": 1.4422955322184803,
+            "Precio Gasoleo B": 0.8842806051283163,
+            "Precio Gases licuados del petróleo": 0.6874685756440135,
+            "Precio Biodiesel": 1.1481896551724136,
+            "Precio Gas Natural Comprimido": 0.899325123152709,
+            "Precio Gas Natural Licuado": 0.8437142857142854
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.2049511710617162,
+            "Precio Gasoleo B": 0.8836754259423242,
+            "Precio Gasoleo Premium": 1.2885085221115835,
+            "Precio Gasolina 95 E5": 1.3085572167234956,
+            "Precio Gasolina 98 E5": 1.4511251637204494,
+            "Precio Gases licuados del petróleo": 0.723299847674423,
+            "Precio Biodiesel": 1.155416666666667,
+            "Precio Gas Natural Comprimido": 0.9123155172413792,
+            "Precio Gas Natural Licuado": 0.8526666666666669
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.2204506049194603,
+            "Precio Gasoleo B": 0.882280580482824,
+            "Precio Gasoleo Premium": 1.2990619043453133,
+            "Precio Gasolina 95 E5": 1.3052774095429454,
+            "Precio Gasolina 98 E5": 1.4417009228469835,
+            "Precio Gases licuados del petróleo": 0.7301716708135296,
+            "Precio Biodiesel": 1.2434827586206902,
+            "Precio Gas Natural Comprimido": 0.8995172413793109,
+            "Precio Gas Natural Licuado": 0.8397241379310342
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.202347435248565,
+            "Precio Gasoleo B": 0.8733892465021117,
+            "Precio Gasoleo Premium": 1.283770046900092,
+            "Precio Gasolina 95 E5": 1.2882236640324949,
+            "Precio Gasolina 98 E5": 1.4247604135810779,
+            "Precio Gases licuados del petróleo": 0.7114022988505749,
+            "Precio Gas Natural Comprimido": 0.8599999999999997,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Biodiesel": 1.1735172413793105
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.277414185790247,
+            "Precio Gasoleo Premium": 1.353193159629442,
+            "Precio Gasolina 95 E5": 1.366600178864879,
+            "Precio Gasolina 98 E5": 1.511933241848672,
+            "Precio Gases licuados del petróleo": 0.7473355834015399,
+            "Precio Gasoleo B": 0.9766472196334265
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.197724153317507,
+            "Precio Gasoleo Premium": 1.296305394833179,
+            "Precio Gasolina 95 E5": 1.3036139825480362,
+            "Precio Gasolina 98 E5": 1.4651319351342547,
+            "Precio Gases licuados del petróleo": 0.7313499271775141,
+            "Precio Gasoleo B": 0.8827734053464602,
+            "Precio Biodiesel": 1.1395852216748765,
+            "Precio Gas Natural Comprimido": 0.8949046653144019,
+            "Precio Gas Natural Licuado": 0.8443749999999995,
+            "Precio Bioetanol": 1.3373793103448268
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.7211885668461449,
+            "Precio Gasoleo A": 1.2295211785187654,
+            "Precio Gasoleo B": 0.9135598229017329,
+            "Precio Gasoleo Premium": 1.303233639251532,
+            "Precio Gasolina 95 E5": 1.319986992700098,
+            "Precio Gasolina 98 E5": 1.4496854119696094,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.9472758620689661,
+            "Precio Biodiesel": 1.2214482758620693
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.19643187082161,
+            "Precio Gasoleo B": 0.8329156532651083,
+            "Precio Gasoleo Premium": 1.2872640706544674,
+            "Precio Gasolina 95 E5": 1.2920306552062373,
+            "Precio Gasolina 98 E5": 1.4297142094991908,
+            "Precio Gases licuados del petróleo": 0.7283477011494255,
+            "Precio Gas Natural Comprimido": 0.8770517241379309,
+            "Precio Gas Natural Licuado": 0.8545000000000005,
+            "Precio Biodiesel": 1.1721724137931036
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.2118745689655173,
+            "Precio Gasoleo B": 0.8807920417869886,
+            "Precio Gasoleo Premium": 1.3035714354562762,
+            "Precio Gasolina 95 E5": 1.3090223920472186,
+            "Precio Gasolina 98 E5": 1.445148524169971,
+            "Precio Gases licuados del petróleo": 0.7439741379310343
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.2436789815985156,
+            "Precio Gasoleo Premium": 1.3222414683324197,
+            "Precio Gasolina 95 E5": 1.3332330194386888,
+            "Precio Gasolina 98 E5": 1.478419921159591,
+            "Precio Gases licuados del petróleo": 0.7457015485068011,
+            "Precio Gasoleo B": 0.933106218326109,
+            "Precio Gas Natural Comprimido": 0.9243699290060855,
+            "Precio Biodiesel": 1.3912413793103444,
+            "Precio Gas Natural Licuado": 0.8331810344827586,
+            "Precio Bioetanol": 1.524999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.177056480195511,
+            "Precio Gasoleo B": 0.8981895027523107,
+            "Precio Gasoleo Premium": 1.255635812542357,
+            "Precio Gasolina 95 E5": 1.278857478132331,
+            "Precio Gasolina 98 E5": 1.4121678934616726,
+            "Precio Gases licuados del petróleo": 0.6902284710819192,
+            "Precio Gas Natural Comprimido": 0.9450919540229887,
+            "Precio Gas Natural Licuado": 0.8490000000000001
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.189782303639157,
+            "Precio Gasoleo B": 0.820350651226549,
+            "Precio Gasolina 95 E5": 1.2881240273404801,
+            "Precio Gasoleo Premium": 1.288080928742676,
+            "Precio Gasolina 98 E5": 1.4444862797306448,
+            "Precio Gases licuados del petróleo": 0.730982594417077,
+            "Precio Gas Natural Comprimido": 0.9472758620689661
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.2443671867433734,
+            "Precio Gasoleo B": 0.9307664419669864,
+            "Precio Gasoleo Premium": 1.3188935293895574,
+            "Precio Gasolina 95 E5": 1.3265290767920357,
+            "Precio Gasolina 98 E5": 1.4570963979510632,
+            "Precio Gases licuados del petróleo": 0.756938107869142,
+            "Precio Gas Natural Comprimido": 0.9200000000000005,
+            "Precio Bioetanol": 1.4593448275862073,
+            "Precio Gas Natural Licuado": 0.84
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.9918681422270921,
+            "Precio Gasolina 95 E5": 1.0488642312293255,
+            "Precio Gasolina 98 E5": 1.173633890062031,
+            "Precio Gasoleo Premium": 1.0975106113476165,
+            "Precio Gases licuados del petróleo": 0.5745577758847847
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.2262420556771565,
+            "Precio Gasoleo B": 0.8824535445528704,
+            "Precio Gasoleo Premium": 1.3044445609509123,
+            "Precio Gasolina 95 E5": 1.3097472908250114,
+            "Precio Gasolina 98 E5": 1.4482473014513266,
+            "Precio Biodiesel": 1.2164022988505743,
+            "Precio Gases licuados del petróleo": 0.7391524500907439
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.9530727969348658,
+            "Precio Gasolina 95 E5": 1.0270421455938696,
+            "Precio Gasolina 98 E5": 1.0570038314176249,
+            "Precio Gasoleo Premium": 0.9870275862068965
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.8388885941644564,
+            "Precio Gasoleo Premium": 0.8807758620689655,
+            "Precio Gasolina 95 E5": 0.9423262599469496
+        }
+    },
+    "Marzo": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.1442762943580986,
+            "Precio Gasoleo B": 0.8624196016217169,
+            "Precio Gasolina 95 E5": 1.2333780047846978,
+            "Precio Gasoleo Premium": 1.2246034250680886,
+            "Precio Gasolina 98 E5": 1.3842586005073312,
+            "Precio Biodiesel": 1.2203790322580643,
+            "Precio Gases licuados del petróleo": 0.7218918621700878,
+            "Precio Gas Natural Comprimido": 0.9107446236559142,
+            "Precio Gas Natural Licuado": 0.872241935483871,
+            "Precio Bioetanol": 1.5080000000000007
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.1322942968073189,
+            "Precio Gasoleo B": 0.781067255622038,
+            "Precio Gasolina 95 E5": 1.217902107495937,
+            "Precio Gasoleo Premium": 1.216304045819213,
+            "Precio Gasolina 98 E5": 1.3510707989917805,
+            "Precio Gases licuados del petróleo": 0.7015217197156435,
+            "Precio Gas Natural Comprimido": 0.9387526881720428,
+            "Precio Gas Natural Licuado": 0.8552258064516131
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0988942257462488,
+            "Precio Gasoleo Premium": 1.183653489391422,
+            "Precio Gasolina 95 E5": 1.205444949902861,
+            "Precio Gasolina 98 E5": 1.3584785486484035,
+            "Precio Gasoleo B": 0.8117659232384516,
+            "Precio Gases licuados del petróleo": 0.6633297288061403,
+            "Precio Gas Natural Comprimido": 0.8911520737327185,
+            "Precio Gas Natural Licuado": 0.8422211981566817,
+            "Precio Biodiesel": 1.0635161290322581
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.1208763118208438,
+            "Precio Gasoleo B": 0.8078613781214599,
+            "Precio Gasoleo Premium": 1.2036382160556776,
+            "Precio Gasolina 95 E5": 1.2250174242191398,
+            "Precio Gasolina 98 E5": 1.369763216979939,
+            "Precio Gases licuados del petróleo": 0.7005812509941692,
+            "Precio Biodiesel": 1.0709097542242703,
+            "Precio Gas Natural Comprimido": 0.9106451612903224,
+            "Precio Gas Natural Licuado": 0.8557849462365598
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.1320666550643343,
+            "Precio Gasoleo B": 0.8099508402807667,
+            "Precio Gasoleo Premium": 1.212164201592231,
+            "Precio Gasolina 95 E5": 1.2122614511392722,
+            "Precio Gasolina 98 E5": 1.3552348064594413,
+            "Precio Gases licuados del petróleo": 0.7056639113022486,
+            "Precio Biodiesel": 1.1684408602150536,
+            "Precio Gas Natural Comprimido": 0.887496774193548,
+            "Precio Gas Natural Licuado": 0.8397596774193544
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.1147796376783738,
+            "Precio Gasoleo B": 0.7978669897916779,
+            "Precio Gasoleo Premium": 1.197268000127246,
+            "Precio Gasolina 95 E5": 1.2029182738846256,
+            "Precio Gasolina 98 E5": 1.3449526506118024,
+            "Precio Gases licuados del petróleo": 0.6822580645161287,
+            "Precio Gas Natural Comprimido": 0.8522580645161288,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Biodiesel": 1.0983548387096775
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.1830467409046752,
+            "Precio Gasoleo Premium": 1.257735026253949,
+            "Precio Gasolina 95 E5": 1.2683207634690035,
+            "Precio Gasolina 98 E5": 1.4165633562236715,
+            "Precio Gases licuados del petróleo": 0.7065297113752121,
+            "Precio Gasoleo B": 0.9009473990119153
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.1033297073934978,
+            "Precio Gasoleo Premium": 1.199234026002877,
+            "Precio Gasolina 95 E5": 1.2140712463848662,
+            "Precio Gasolina 98 E5": 1.3786119224555367,
+            "Precio Gases licuados del petróleo": 0.7021709739693611,
+            "Precio Gasoleo B": 0.7998958097593427,
+            "Precio Biodiesel": 1.046763440860215,
+            "Precio Gas Natural Comprimido": 0.8848952561669832,
+            "Precio Gas Natural Licuado": 0.843495967741935,
+            "Precio Bioetanol": 1.268903225806451
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6931672739613476,
+            "Precio Gasoleo A": 1.1341234571640828,
+            "Precio Gasoleo B": 0.8419803849199471,
+            "Precio Gasoleo Premium": 1.2094919986777748,
+            "Precio Gasolina 95 E5": 1.2221507875309339,
+            "Precio Gasolina 98 E5": 1.357969775387861,
+            "Precio Gas Natural Licuado": 0.84,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.9490000000000005,
+            "Precio Biodiesel": 1.1113870967741937
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.1073875482311824,
+            "Precio Gasoleo B": 0.7557599359969636,
+            "Precio Gasoleo Premium": 1.1971845849590514,
+            "Precio Gasolina 95 E5": 1.2027619247873778,
+            "Precio Gasolina 98 E5": 1.3437904497206365,
+            "Precio Gases licuados del petróleo": 0.699368951612903,
+            "Precio Gas Natural Comprimido": 0.8770860215053763,
+            "Precio Gas Natural Licuado": 0.8545000000000006,
+            "Precio Biodiesel": 1.0775161290322584
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.1243871923316235,
+            "Precio Gasoleo B": 0.8043180120769108,
+            "Precio Gasoleo Premium": 1.2164380198823286,
+            "Precio Gasolina 95 E5": 1.2167430715027883,
+            "Precio Gasolina 98 E5": 1.3571808474766776,
+            "Precio Gases licuados del petróleo": 0.7226209677419357
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.1545763291038968,
+            "Precio Gasoleo Premium": 1.2309046786568145,
+            "Precio Gasolina 95 E5": 1.24496788166869,
+            "Precio Gasolina 98 E5": 1.39270450623233,
+            "Precio Gases licuados del petróleo": 0.7096557778685183,
+            "Precio Gasoleo B": 0.8518189412737799,
+            "Precio Gas Natural Comprimido": 0.9126949715370017,
+            "Precio Biodiesel": 1.2969838709677417,
+            "Precio Gas Natural Licuado": 0.8197499999999994,
+            "Precio Bioetanol": 1.524999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.083375077000155,
+            "Precio Gasoleo B": 0.8268720131777071,
+            "Precio Gasoleo Premium": 1.1647650581739066,
+            "Precio Gasolina 95 E5": 1.1901115286799149,
+            "Precio Gasolina 98 E5": 1.3307055907695413,
+            "Precio Gases licuados del petróleo": 0.6665656682027649,
+            "Precio Gas Natural Comprimido": 0.9456666666666668,
+            "Precio Gas Natural Licuado": 0.8472580645161291
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.1018641103014701,
+            "Precio Gasoleo B": 0.7435759642192835,
+            "Precio Gasolina 95 E5": 1.2020480180725446,
+            "Precio Gasoleo Premium": 1.1966457642447994,
+            "Precio Gasolina 98 E5": 1.3531643220955616,
+            "Precio Gases licuados del petróleo": 0.7151705069124423,
+            "Precio Gas Natural Comprimido": 0.9490000000000005
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.1495806466189502,
+            "Precio Gasoleo B": 0.8554256002910503,
+            "Precio Gasoleo Premium": 1.2251938119575205,
+            "Precio Gasolina 95 E5": 1.2390040395969577,
+            "Precio Gasolina 98 E5": 1.371847281390497,
+            "Precio Gases licuados del petróleo": 0.7342630272952855,
+            "Precio Gas Natural Comprimido": 0.9161290322580645,
+            "Precio Bioetanol": 1.3757741935483867,
+            "Precio Gas Natural Licuado": 0.84
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.9599742846776949,
+            "Precio Gasolina 95 E5": 1.0195881594390046,
+            "Precio Gasolina 98 E5": 1.1429979404777362,
+            "Precio Gasoleo Premium": 1.0712679741584021,
+            "Precio Gases licuados del petróleo": 0.5545312903225805
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.1370534411419135,
+            "Precio Gasoleo B": 0.8289583810267083,
+            "Precio Gasoleo Premium": 1.2150339374807557,
+            "Precio Gasolina 95 E5": 1.2202926957146143,
+            "Precio Gasolina 98 E5": 1.3669211560025958,
+            "Precio Biodiesel": 1.168204301075269,
+            "Precio Gases licuados del petróleo": 0.730012393887946
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8686308243727597,
+            "Precio Gasolina 95 E5": 0.9243906810035838,
+            "Precio Gasolina 98 E5": 0.9543978494623654,
+            "Precio Gasoleo Premium": 0.9043419354838708
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.7521960297766747,
+            "Precio Gasoleo Premium": 0.7928451612903226,
+            "Precio Gasolina 95 E5": 0.8387741935483872
+        }
+    },
+    "Abril": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.0498374508836519,
+            "Precio Gasoleo B": 0.7758766029143896,
+            "Precio Gasolina 95 E5": 1.1282206043551841,
+            "Precio Gasoleo Premium": 1.1297586488967348,
+            "Precio Gasolina 98 E5": 1.275441084232525,
+            "Precio Biodiesel": 1.1284789682539684,
+            "Precio Gases licuados del petróleo": 0.698905776515152,
+            "Precio Gas Natural Comprimido": 0.9070888888888885,
+            "Precio Gas Natural Licuado": 0.8509833333333338,
+            "Precio Bioetanol": 1.5142999999999986
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0383995450551284,
+            "Precio Gasoleo B": 0.6958555980947881,
+            "Precio Gasolina 95 E5": 1.1156920510038713,
+            "Precio Gasoleo Premium": 1.1236814296457915,
+            "Precio Gasolina 98 E5": 1.257165304615756,
+            "Precio Gases licuados del petróleo": 0.6758805278700627,
+            "Precio Gas Natural Comprimido": 0.9255759259259254,
+            "Precio Gas Natural Licuado": 0.8303200000000003
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0022576402364,
+            "Precio Gasoleo Premium": 1.0877481051609683,
+            "Precio Gasolina 95 E5": 1.100180000650044,
+            "Precio Gasolina 98 E5": 1.2594124084792344,
+            "Precio Gasoleo B": 0.7258971880235399,
+            "Precio Gases licuados del petróleo": 0.6365505231962277,
+            "Precio Biodiesel": 0.9815499999999997,
+            "Precio Gas Natural Comprimido": 0.8852095238095244,
+            "Precio Gas Natural Licuado": 0.8180952380952381
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.0270242102937537,
+            "Precio Gasoleo B": 0.7187135061879937,
+            "Precio Gasoleo Premium": 1.1111482838633784,
+            "Precio Gasolina 95 E5": 1.1175984711232256,
+            "Precio Gasolina 98 E5": 1.2687643647810445,
+            "Precio Gases licuados del petróleo": 0.6727866684805733,
+            "Precio Biodiesel": 0.9893214285714286,
+            "Precio Gas Natural Comprimido": 0.860307777777778,
+            "Precio Gas Natural Licuado": 0.8432444444444439
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0411567666153272,
+            "Precio Gasoleo B": 0.7286707294111525,
+            "Precio Gasoleo Premium": 1.1224104506460237,
+            "Precio Gasolina 95 E5": 1.1107713016356613,
+            "Precio Gasolina 98 E5": 1.2579267876904294,
+            "Precio Gases licuados del petróleo": 0.6772582244897959,
+            "Precio Biodiesel": 1.0660222222222226,
+            "Precio Gas Natural Comprimido": 0.873853333333333,
+            "Precio Gas Natural Licuado": 0.8128916666666666
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.0259573160548527,
+            "Precio Gasoleo B": 0.7147745712689463,
+            "Precio Gasoleo Premium": 1.1113177727009602,
+            "Precio Gasolina 95 E5": 1.1007792195567974,
+            "Precio Gasolina 98 E5": 1.2525431612750475,
+            "Precio Gases licuados del petróleo": 0.6462259259259258,
+            "Precio Gas Natural Comprimido": 0.8200000000000002,
+            "Precio Gas Natural Licuado": 0.8017333333333331,
+            "Precio Biodiesel": 1.029666666666666
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.090940315366463,
+            "Precio Gasoleo Premium": 1.1658874284303473,
+            "Precio Gasolina 95 E5": 1.1651296740224681,
+            "Precio Gasolina 98 E5": 1.3135604494496318,
+            "Precio Gases licuados del petróleo": 0.6718964912280703,
+            "Precio Gasoleo B": 0.8160556277706277
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0080423197982433,
+            "Precio Gasoleo Premium": 1.099532804795563,
+            "Precio Gasolina 95 E5": 1.110087534146608,
+            "Precio Gasolina 98 E5": 1.2757289714831013,
+            "Precio Gases licuados del petróleo": 0.6736849474961978,
+            "Precio Gasoleo B": 0.7117425758698778,
+            "Precio Biodiesel": 0.9631911111111109,
+            "Precio Gas Natural Comprimido": 0.8699361068111451,
+            "Precio Gas Natural Licuado": 0.8127898148148154,
+            "Precio Bioetanol": 1.1583333333333339
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6604664082687339,
+            "Precio Gasoleo A": 1.0389165418037074,
+            "Precio Gasoleo B": 0.7534931341463889,
+            "Precio Gasoleo Premium": 1.1149896262600085,
+            "Precio Gasolina 95 E5": 1.1097686751873526,
+            "Precio Gasolina 98 E5": 1.2508649273343797,
+            "Precio Gas Natural Licuado": 0.8017333333333331,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.9372666666666666,
+            "Precio Biodiesel": 1.0158333333333336
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.008229245704196,
+            "Precio Gasoleo B": 0.6636100950867341,
+            "Precio Gasoleo Premium": 1.0956293260292604,
+            "Precio Gasolina 95 E5": 1.09539913646402,
+            "Precio Gasolina 98 E5": 1.2386089744156334,
+            "Precio Gases licuados del petróleo": 0.6669269444444444,
+            "Precio Gas Natural Comprimido": 0.8663333333333334,
+            "Precio Gas Natural Licuado": 0.8353666666666665,
+            "Precio Biodiesel": 0.9780666666666668
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0275490550459234,
+            "Precio Gasoleo B": 0.7117724137931031,
+            "Precio Gasoleo Premium": 1.114093542260209,
+            "Precio Gasolina 95 E5": 1.111686454851533,
+            "Precio Gasolina 98 E5": 1.248723888888889,
+            "Precio Gases licuados del petróleo": 0.6900499999999997
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.0587945513876855,
+            "Precio Gasoleo Premium": 1.1337168401116828,
+            "Precio Gasolina 95 E5": 1.1361344779543685,
+            "Precio Gasolina 98 E5": 1.2855424458736684,
+            "Precio Gases licuados del petróleo": 0.6727062539218867,
+            "Precio Gasoleo B": 0.7550111965811968,
+            "Precio Gas Natural Comprimido": 0.9096901960784312,
+            "Precio Biodiesel": 1.0826666666666673,
+            "Precio Gas Natural Licuado": 0.7918666666666668,
+            "Precio Bioetanol": 1.524999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 0.9858332952255667,
+            "Precio Gasoleo B": 0.7392284849881929,
+            "Precio Gasoleo Premium": 1.072373983083114,
+            "Precio Gasolina 95 E5": 1.0806148618705036,
+            "Precio Gasolina 98 E5": 1.2318768129168127,
+            "Precio Gases licuados del petróleo": 0.6383638007054677,
+            "Precio Gas Natural Comprimido": 0.9363777777777778,
+            "Precio Gas Natural Licuado": 0.8196000000000001
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0096207353233715,
+            "Precio Gasoleo B": 0.6559087350207314,
+            "Precio Gasolina 95 E5": 1.1040898341938434,
+            "Precio Gasoleo Premium": 1.101098868321324,
+            "Precio Gasolina 98 E5": 1.256718911329859,
+            "Precio Gases licuados del petróleo": 0.6889553113553114,
+            "Precio Gas Natural Comprimido": 0.9372666666666666
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.0551669796196168,
+            "Precio Gasoleo B": 0.7663616436925647,
+            "Precio Gasoleo Premium": 1.131353782022156,
+            "Precio Gasolina 95 E5": 1.1307534060786513,
+            "Precio Gasolina 98 E5": 1.2621768676192044,
+            "Precio Gases licuados del petróleo": 0.7054771367521366,
+            "Precio Gas Natural Comprimido": 0.8999999999999996,
+            "Precio Bioetanol": 1.315,
+            "Precio Gas Natural Licuado": 0.8017333333333331
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.91065075995466,
+            "Precio Gasolina 95 E5": 0.9632054915511815,
+            "Precio Gasolina 98 E5": 1.0870061519922543,
+            "Precio Gasoleo Premium": 1.026405242852659,
+            "Precio Gases licuados del petróleo": 0.5265960000000001
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0536230226767402,
+            "Precio Gasoleo B": 0.7691718311351238,
+            "Precio Gasoleo Premium": 1.133197464346119,
+            "Precio Gasolina 95 E5": 1.1262373623120119,
+            "Precio Gasolina 98 E5": 1.2811542839301446,
+            "Precio Biodiesel": 1.1047333333333331,
+            "Precio Gases licuados del petróleo": 0.7091494736842104
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8148529100529097,
+            "Precio Gasolina 95 E5": 0.8424936507936508,
+            "Precio Gasolina 98 E5": 0.8714936507936509,
+            "Precio Gasoleo Premium": 0.8490533333333335
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.6938717948717953,
+            "Precio Gasoleo Premium": 0.7381533333333334,
+            "Precio Gasolina 95 E5": 0.7534923076923075
+        }
+    },
+    "Mayo": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.0319638905675486,
+            "Precio Gasoleo B": 0.7520838533403844,
+            "Precio Gasolina 95 E5": 1.116566110113739,
+            "Precio Gasoleo Premium": 1.114328212378689,
+            "Precio Gasolina 98 E5": 1.2668635982988785,
+            "Precio Biodiesel": 1.1173870967741937,
+            "Precio Gases licuados del petróleo": 0.7015437744379275,
+            "Precio Gas Natural Comprimido": 0.9082499999999997,
+            "Precio Gas Natural Licuado": 0.8492500000000004,
+            "Precio Bioetanol": 1.5100322580645165
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0068231487594375,
+            "Precio Gasoleo B": 0.6453477702077661,
+            "Precio Gasolina 95 E5": 1.0922004474638018,
+            "Precio Gasoleo Premium": 1.0995591523653931,
+            "Precio Gasolina 98 E5": 1.2430227616486558,
+            "Precio Gases licuados del petróleo": 0.6735657085002955,
+            "Precio Gas Natural Comprimido": 0.9206405913978489,
+            "Precio Gas Natural Licuado": 0.8206774193548383
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 0.9714215458530855,
+            "Precio Gasoleo Premium": 1.0642913019743039,
+            "Precio Gasolina 95 E5": 1.0753697912665883,
+            "Precio Gasolina 98 E5": 1.2442462988739664,
+            "Precio Gasoleo B": 0.6826635277216561,
+            "Precio Gases licuados del petróleo": 0.6337696449444072,
+            "Precio Biodiesel": 0.906516129032258,
+            "Precio Gas Natural Comprimido": 0.8844339477726578,
+            "Precio Gas Natural Licuado": 0.8134831029185868
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 0.9969542488052895,
+            "Precio Gasoleo B": 0.6745680022999911,
+            "Precio Gasoleo Premium": 1.0871117922035773,
+            "Precio Gasolina 95 E5": 1.0945054244825863,
+            "Precio Gasolina 98 E5": 1.2523390008611197,
+            "Precio Gases licuados del petróleo": 0.6728455567864234,
+            "Precio Gas Natural Comprimido": 0.8970967741935475,
+            "Precio Biodiesel": 0.9461572580645159,
+            "Precio Gas Natural Licuado": 0.8423333333333328
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0128556594916203,
+            "Precio Gasoleo B": 0.6928340156754516,
+            "Precio Gasoleo Premium": 1.0968362919995827,
+            "Precio Gasolina 95 E5": 1.0886423578459454,
+            "Precio Gasolina 98 E5": 1.2413220020436142,
+            "Precio Gases licuados del petróleo": 0.6672332428558246,
+            "Precio Biodiesel": 1.0523548387096768,
+            "Precio Gas Natural Comprimido": 0.8721999999999996,
+            "Precio Gas Natural Licuado": 0.80875
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 0.9932960835320359,
+            "Precio Gasoleo B": 0.6685667142736517,
+            "Precio Gasoleo Premium": 1.0875463763107682,
+            "Precio Gasolina 95 E5": 1.0749874793566239,
+            "Precio Gasolina 98 E5": 1.2393121739761193,
+            "Precio Gases licuados del petróleo": 0.6479426523297493,
+            "Precio Gas Natural Comprimido": 0.8200000000000002,
+            "Precio Gas Natural Licuado": 0.7989999999999997,
+            "Precio Biodiesel": 0.9895161290322582
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.0741734802514586,
+            "Precio Gasoleo Premium": 1.149813898201114,
+            "Precio Gasolina 95 E5": 1.160062009050364,
+            "Precio Gasolina 98 E5": 1.3055584270171172,
+            "Precio Gases licuados del petróleo": 0.6720382946613846,
+            "Precio Gasoleo B": 0.7837779041578853
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 0.9807141840267846,
+            "Precio Gasoleo Premium": 1.0776139878592275,
+            "Precio Gasolina 95 E5": 1.0850079785697124,
+            "Precio Gasolina 98 E5": 1.2628195024892097,
+            "Precio Gases licuados del petróleo": 0.6703982156064419,
+            "Precio Gasoleo B": 0.6727216388381113,
+            "Precio Biodiesel": 0.9200064516129034,
+            "Precio Gas Natural Comprimido": 0.8718749999999995,
+            "Precio Gas Natural Licuado": 0.8090000000000007,
+            "Precio Bioetanol": 1.15941935483871
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6511803307969855,
+            "Precio Gasoleo A": 1.0150486058114225,
+            "Precio Gasoleo B": 0.7171146034214974,
+            "Precio Gasoleo Premium": 1.09294832675316,
+            "Precio Gasolina 95 E5": 1.0931243349033881,
+            "Precio Gasolina 98 E5": 1.2353113734821197,
+            "Precio Gas Natural Licuado": 0.7989999999999997,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.9329999999999999,
+            "Precio Biodiesel": 0.9802258064516133
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 0.9765110944484332,
+            "Precio Gasoleo B": 0.6118224919490739,
+            "Precio Gasoleo Premium": 1.0748010126834049,
+            "Precio Gasolina 95 E5": 1.068578697202418,
+            "Precio Gasolina 98 E5": 1.2269600880541822,
+            "Precio Gases licuados del petróleo": 0.6585657258064511,
+            "Precio Gas Natural Comprimido": 0.8578817204301076,
+            "Precio Gas Natural Licuado": 0.8339999999999997,
+            "Precio Biodiesel": 0.9584193548387097
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 0.9994942624409755,
+            "Precio Gasoleo B": 0.6678084379469252,
+            "Precio Gasoleo Premium": 1.0950118121773633,
+            "Precio Gasolina 95 E5": 1.0891369206148263,
+            "Precio Gasolina 98 E5": 1.2397108201266342,
+            "Precio Gases licuados del petróleo": 0.6974838709677413
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.0333268417645496,
+            "Precio Gasoleo Premium": 1.1147148949375798,
+            "Precio Gasolina 95 E5": 1.1197539822252416,
+            "Precio Gasolina 98 E5": 1.2747150117975765,
+            "Precio Gases licuados del petróleo": 0.6709845326716292,
+            "Precio Gasoleo B": 0.7332204041347082,
+            "Precio Gas Natural Comprimido": 0.90726375711575,
+            "Precio Biodiesel": 1.0742795698924732,
+            "Precio Gas Natural Licuado": 0.7875403225806451,
+            "Precio Bioetanol": 1.524999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 0.955562376381509,
+            "Precio Gasoleo B": 0.6982593495408973,
+            "Precio Gasoleo Premium": 1.0465586053409834,
+            "Precio Gasolina 95 E5": 1.0567383823100287,
+            "Precio Gasolina 98 E5": 1.214204129138322,
+            "Precio Gases licuados del petróleo": 0.6267269585253458,
+            "Precio Gas Natural Comprimido": 0.9329999999999999,
+            "Precio Gas Natural Licuado": 0.8090000000000002
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 0.967990703592105,
+            "Precio Gasoleo B": 0.5946940582268423,
+            "Precio Gasolina 95 E5": 1.0695230884651725,
+            "Precio Gasoleo Premium": 1.0736322728272696,
+            "Precio Gasolina 98 E5": 1.2392325840059664,
+            "Precio Gases licuados del petróleo": 0.673723502304147,
+            "Precio Gas Natural Comprimido": 0.9329999999999999
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.0344509974339124,
+            "Precio Gasoleo B": 0.7440963508682097,
+            "Precio Gasoleo Premium": 1.1107115008666473,
+            "Precio Gasolina 95 E5": 1.113006884758302,
+            "Precio Gasolina 98 E5": 1.2489599436865768,
+            "Precio Gases licuados del petróleo": 0.7025707196029778,
+            "Precio Gas Natural Comprimido": 0.8999999999999995,
+            "Precio Bioetanol": 1.2954516129032259,
+            "Precio Gas Natural Licuado": 0.7989999999999997
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.8941841274479867,
+            "Precio Gasolina 95 E5": 0.9474686884564153,
+            "Precio Gasolina 98 E5": 1.0740263767821623,
+            "Precio Gasoleo Premium": 1.011469830325131,
+            "Precio Gases licuados del petróleo": 0.5269610918114146
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0273228649464514,
+            "Precio Gasoleo B": 0.7329450415122452,
+            "Precio Gasoleo Premium": 1.1134693167068168,
+            "Precio Gasolina 95 E5": 1.1053690942248,
+            "Precio Gasolina 98 E5": 1.26412765027206,
+            "Precio Biodiesel": 1.0832903225806452,
+            "Precio Gases licuados del petróleo": 0.702862695717789
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.7972163978494621,
+            "Precio Gasolina 95 E5": 0.8354422043010749,
+            "Precio Gasolina 98 E5": 0.8656456093189965,
+            "Precio Gasoleo Premium": 0.832806451612903
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.6773275434243179,
+            "Precio Gasoleo Premium": 0.7205935483870965,
+            "Precio Gasolina 95 E5": 0.7453622828784116
+        }
+    },
+    "Junio": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.0664783514916014,
+            "Precio Gasoleo B": 0.7784626593806921,
+            "Precio Gasolina 95 E5": 1.1643028728710008,
+            "Precio Gasoleo Premium": 1.1491418560506022,
+            "Precio Gasolina 98 E5": 1.313491086791818,
+            "Precio Biodiesel": 1.1500555555555558,
+            "Precio Gases licuados del petróleo": 0.7038868686868689,
+            "Precio Gas Natural Comprimido": 0.9065999999999996,
+            "Precio Gas Natural Licuado": 0.8512666666666671,
+            "Precio Bioetanol": 1.5108000000000001
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0370541081186464,
+            "Precio Gasoleo B": 0.6705646320316448,
+            "Precio Gasolina 95 E5": 1.1279346420166987,
+            "Precio Gasoleo Premium": 1.1298703833204597,
+            "Precio Gasolina 98 E5": 1.27497492218168,
+            "Precio Gases licuados del petróleo": 0.6675930680477902,
+            "Precio Gas Natural Comprimido": 0.9095311111111106,
+            "Precio Gas Natural Licuado": 0.8189999999999994
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0080291023924406,
+            "Precio Gasoleo Premium": 1.1044699349136269,
+            "Precio Gasolina 95 E5": 1.1199282573000633,
+            "Precio Gasolina 98 E5": 1.2902275206425469,
+            "Precio Gasoleo B": 0.7013415803667933,
+            "Precio Gases licuados del petróleo": 0.6327311324133991,
+            "Precio Biodiesel": 0.9641666666666667,
+            "Precio Gas Natural Comprimido": 0.8737190476190471,
+            "Precio Gas Natural Licuado": 0.807201904761905
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.0319024542324367,
+            "Precio Gasoleo B": 0.6940297977465978,
+            "Precio Gasoleo Premium": 1.1237331439301088,
+            "Precio Gasolina 95 E5": 1.1347012173617803,
+            "Precio Gasolina 98 E5": 1.2913620432997233,
+            "Precio Gases licuados del petróleo": 0.6757593909577014,
+            "Precio Biodiesel": 0.9796782407407407,
+            "Precio Gas Natural Comprimido": 0.9019999999999994,
+            "Precio Gas Natural Licuado": 0.8409722222222221
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0434989044225083,
+            "Precio Gasoleo B": 0.716752054176102,
+            "Precio Gasoleo Premium": 1.1258925462060425,
+            "Precio Gasolina 95 E5": 1.1282572882630473,
+            "Precio Gasolina 98 E5": 1.2758198925374404,
+            "Precio Gases licuados del petróleo": 0.658358160864346,
+            "Precio Biodiesel": 1.0647333333333333,
+            "Precio Gas Natural Comprimido": 0.8691599999999996,
+            "Precio Gas Natural Licuado": 0.80875
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.019380877025779,
+            "Precio Gasoleo B": 0.6918417091997731,
+            "Precio Gasoleo Premium": 1.1131579850313584,
+            "Precio Gasolina 95 E5": 1.1120817540904337,
+            "Precio Gasolina 98 E5": 1.2692219327394725,
+            "Precio Gases licuados del petróleo": 0.633662962962963,
+            "Precio Gas Natural Comprimido": 0.8200000000000002,
+            "Precio Gas Natural Licuado": 0.7989999999999997,
+            "Precio Biodiesel": 0.9970000000000003
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.1089324441569781,
+            "Precio Gasoleo Premium": 1.1847163581788822,
+            "Precio Gasolina 95 E5": 1.2042309492744074,
+            "Precio Gasolina 98 E5": 1.3518265952345458,
+            "Precio Gases licuados del petróleo": 0.6703087719298249,
+            "Precio Gasoleo B": 0.8124075925925928
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.013872755755094,
+            "Precio Gasoleo Premium": 1.111232557726443,
+            "Precio Gasolina 95 E5": 1.1259944609379091,
+            "Precio Gasolina 98 E5": 1.303587130529545,
+            "Precio Gases licuados del petróleo": 0.6682832751936937,
+            "Precio Gasoleo B": 0.6985923153895609,
+            "Precio Biodiesel": 0.9567053968253968,
+            "Precio Gas Natural Comprimido": 0.8631421568627455,
+            "Precio Gas Natural Licuado": 0.8066666666666666,
+            "Precio Bioetanol": 1.2196666666666667
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6476544112218533,
+            "Precio Gasoleo A": 1.0479293013158457,
+            "Precio Gasoleo B": 0.7460153835713934,
+            "Precio Gasoleo Premium": 1.12402304787757,
+            "Precio Gasolina 95 E5": 1.1425103043619607,
+            "Precio Gasolina 98 E5": 1.2821070465054107,
+            "Precio Gas Natural Licuado": 0.7989999999999997,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.9329999999999999,
+            "Precio Biodiesel": 1.0492000000000001
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.0112625210249948,
+            "Precio Gasoleo B": 0.6348238464457345,
+            "Precio Gasoleo Premium": 1.1073979092717103,
+            "Precio Gasolina 95 E5": 1.1083660362522731,
+            "Precio Gasolina 98 E5": 1.2655016562532022,
+            "Precio Gases licuados del petróleo": 0.6421574754901962,
+            "Precio Gas Natural Comprimido": 0.8652555555555561,
+            "Precio Gas Natural Licuado": 0.8350555555555559,
+            "Precio Biodiesel": 0.9931600000000002
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0291760299908292,
+            "Precio Gasoleo B": 0.6886144590403211,
+            "Precio Gasoleo Premium": 1.1246751600279528,
+            "Precio Gasolina 95 E5": 1.1304473732850677,
+            "Precio Gasolina 98 E5": 1.2815520072068851,
+            "Precio Gases licuados del petróleo": 0.7062166666666669
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.0689706404832147,
+            "Precio Gasoleo Premium": 1.1533635605257164,
+            "Precio Gasolina 95 E5": 1.166320157259698,
+            "Precio Gasolina 98 E5": 1.322338046371171,
+            "Precio Gases licuados del petróleo": 0.6771865783833431,
+            "Precio Gasoleo B": 0.7728346018893386,
+            "Precio Gas Natural Comprimido": 0.9003573529411769,
+            "Precio Biodiesel": 1.1227166666666666,
+            "Precio Gas Natural Licuado": 0.78625,
+            "Precio Bioetanol": 1.524999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 0.9981516488415187,
+            "Precio Gasoleo B": 0.7232229740839897,
+            "Precio Gasoleo Premium": 1.0866542367410312,
+            "Precio Gasolina 95 E5": 1.1051651795302828,
+            "Precio Gasolina 98 E5": 1.260319563096549,
+            "Precio Gases licuados del petróleo": 0.6254511904761905,
+            "Precio Gas Natural Comprimido": 0.9114583333333336,
+            "Precio Gas Natural Licuado": 0.8080000000000002
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0036366805172046,
+            "Precio Gasoleo B": 0.6221859307087726,
+            "Precio Gasolina 95 E5": 1.1126443048879362,
+            "Precio Gasoleo Premium": 1.1015911284555742,
+            "Precio Gasolina 98 E5": 1.2815951496164653,
+            "Precio Gases licuados del petróleo": 0.6675749206349205,
+            "Precio Gas Natural Comprimido": 0.9329999999999999
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.073082063209379,
+            "Precio Gasoleo B": 0.7746425246618228,
+            "Precio Gasoleo Premium": 1.1501475921878834,
+            "Precio Gasolina 95 E5": 1.1498334425939414,
+            "Precio Gasolina 98 E5": 1.288021386160839,
+            "Precio Gases licuados del petróleo": 0.694421794871795,
+            "Precio Gas Natural Comprimido": 0.8999999999999996,
+            "Precio Bioetanol": 1.323666666666667,
+            "Precio Gas Natural Licuado": 0.7989999999999997
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.9016929572772024,
+            "Precio Gasolina 95 E5": 0.9559307823250672,
+            "Precio Gasolina 98 E5": 1.0852377007764882,
+            "Precio Gasoleo Premium": 1.0217085764518568,
+            "Precio Gases licuados del petróleo": 0.5334643772893772
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0501367684679328,
+            "Precio Gasoleo B": 0.7424238120839732,
+            "Precio Gasoleo Premium": 1.1378422550781473,
+            "Precio Gasolina 95 E5": 1.1338425873235325,
+            "Precio Gasolina 98 E5": 1.2923837275198111,
+            "Precio Biodiesel": 1.1295333333333326,
+            "Precio Gases licuados del petróleo": 0.7059522807017543
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8172916666666664,
+            "Precio Gasolina 95 E5": 0.8875124999999997,
+            "Precio Gasolina 98 E5": 0.9175124999999997,
+            "Precio Gasoleo Premium": 0.8518333333333331
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.6968384615384614,
+            "Precio Gasoleo Premium": 0.7392100000000005,
+            "Precio Gasolina 95 E5": 0.7981025641025641
+        }
+    },
+    "Julio": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.1005818437792503,
+            "Precio Gasoleo B": 0.8096112462541865,
+            "Precio Gasolina 95 E5": 1.2024734100894696,
+            "Precio Gasoleo Premium": 1.1813994196558018,
+            "Precio Gasolina 98 E5": 1.3493042030421067,
+            "Precio Biodiesel": 1.1796666666666666,
+            "Precio Gases licuados del petróleo": 0.7002031097262952,
+            "Precio Gas Natural Comprimido": 0.8758096774193548,
+            "Precio Gas Natural Licuado": 0.7766129032258062,
+            "Precio Bioetanol": 1.5080000000000007,
+            "Precio Gasolina 95 E10": 1.3027499999999996
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0704250963832442,
+            "Precio Gasoleo B": 0.6958510689126615,
+            "Precio Gasolina 95 E5": 1.16415783057215,
+            "Precio Gasoleo Premium": 1.1616323781851432,
+            "Precio Gasolina 98 E5": 1.3063339133950642,
+            "Precio Gases licuados del petróleo": 0.6670475969047691,
+            "Precio Gas Natural Comprimido": 0.862539784946237,
+            "Precio Gas Natural Licuado": 0.7361866359447002,
+            "Precio Gasolina 95 E10": 1.2237323232323232,
+            "Precio Gasolina 98 E10": 1.485
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0454636012289495,
+            "Precio Gasoleo Premium": 1.1393074204478095,
+            "Precio Gasolina 95 E5": 1.1548300786187389,
+            "Precio Gasolina 98 E5": 1.3186249493472197,
+            "Precio Gasoleo B": 0.7243275005155406,
+            "Precio Gases licuados del petróleo": 0.6337641646900282,
+            "Precio Biodiesel": 0.9910806451612902,
+            "Precio Gas Natural Comprimido": 0.8449400921658983,
+            "Precio Gas Natural Licuado": 0.7385253456221197,
+            "Precio Gasolina 95 E10": 1.2279371147371148
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.0635338255314304,
+            "Precio Gasoleo B": 0.7156314460581092,
+            "Precio Gasoleo Premium": 1.1545227720031412,
+            "Precio Gasolina 95 E5": 1.1721030573531777,
+            "Precio Gasolina 98 E5": 1.3269924215683429,
+            "Precio Gases licuados del petróleo": 0.674766928361201,
+            "Precio Biodiesel": 1.0125707885304662,
+            "Precio Gas Natural Comprimido": 0.8687419354838702,
+            "Precio Gas Natural Licuado": 0.7806370967741932,
+            "Precio Gasolina 98 E10": 1.295,
+            "Precio Gasolina 95 E10": 1.269986386554622
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.07562238054389,
+            "Precio Gasoleo B": 0.7395506824999497,
+            "Precio Gasoleo Premium": 1.1566200877615815,
+            "Precio Gasolina 95 E5": 1.1651451742234955,
+            "Precio Gasolina 98 E5": 1.308454664756705,
+            "Precio Gases licuados del petróleo": 0.6566907877989908,
+            "Precio Biodiesel": 1.0857311827956995,
+            "Precio Gas Natural Comprimido": 0.8399612903225808,
+            "Precio Gas Natural Licuado": 0.7346612903225805,
+            "Precio Gasolina 95 E10": 1.2159895833333334
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.0561553466026674,
+            "Precio Gasoleo B": 0.7155622427617507,
+            "Precio Gasoleo Premium": 1.1476640876624218,
+            "Precio Gasolina 95 E5": 1.152119642258879,
+            "Precio Gasolina 98 E5": 1.3028587067670065,
+            "Precio Gases licuados del petróleo": 0.6369784946236562,
+            "Precio Gas Natural Comprimido": 0.7812903225806455,
+            "Precio Gas Natural Licuado": 0.7022258064516131,
+            "Precio Biodiesel": 1.0238064516129037,
+            "Precio Gasolina 95 E10": 1.199
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.1381283594898028,
+            "Precio Gasoleo Premium": 1.2133851983873887,
+            "Precio Gasolina 95 E5": 1.2356788942825057,
+            "Precio Gasolina 98 E5": 1.3843473562472808,
+            "Precio Gases licuados del petróleo": 0.6644312393887946,
+            "Precio Gasoleo B": 0.8296004186620886,
+            "Precio Gasolina 95 E10": 1.2929333333333335
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0516827419106112,
+            "Precio Gasoleo Premium": 1.1487437574810233,
+            "Precio Gasolina 95 E5": 1.167725867383239,
+            "Precio Gasolina 98 E5": 1.3389335159597042,
+            "Precio Gases licuados del petróleo": 0.6690070613753529,
+            "Precio Gasoleo B": 0.7286161249264106,
+            "Precio Biodiesel": 0.9923963133640554,
+            "Precio Gas Natural Comprimido": 0.8285711574952558,
+            "Precio Gas Natural Licuado": 0.7204758064516127,
+            "Precio Bioetanol": 1.2813548387096771,
+            "Precio Gasolina 95 E10": 1.2628472744360901
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6515657021398211,
+            "Precio Gasoleo A": 1.0808402138902673,
+            "Precio Gasoleo B": 0.7730608753971598,
+            "Precio Gasoleo Premium": 1.1554298931732592,
+            "Precio Gasolina 95 E5": 1.1777076748583641,
+            "Precio Gasolina 98 E5": 1.3136513355941757,
+            "Precio Gas Natural Licuado": 0.7022258064516131,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.8739999999999996,
+            "Precio Biodiesel": 1.068,
+            "Precio Gasolina 95 E10": 1.2353124999999998
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.0456898516709263,
+            "Precio Gasoleo B": 0.6666410638205711,
+            "Precio Gasoleo Premium": 1.1387936004623145,
+            "Precio Gasolina 95 E5": 1.14659016130067,
+            "Precio Gasolina 98 E5": 1.2982303263744581,
+            "Precio Gases licuados del petróleo": 0.641240986717268,
+            "Precio Gas Natural Comprimido": 0.8449999999999999,
+            "Precio Gas Natural Licuado": 0.7898064516129031,
+            "Precio Gasolina 95 E10": 1.2320000000000002
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0693566334485636,
+            "Precio Gasoleo B": 0.7159017544479168,
+            "Precio Gasoleo Premium": 1.1662360934197225,
+            "Precio Gasolina 95 E5": 1.1707444252379253,
+            "Precio Gasolina 98 E5": 1.3240648001214486,
+            "Precio Gases licuados del petróleo": 0.6890806451612908
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.1019299228869894,
+            "Precio Gasoleo Premium": 1.1862397230584305,
+            "Precio Gasolina 95 E5": 1.201381398125543,
+            "Precio Gasolina 98 E5": 1.356237679850255,
+            "Precio Gases licuados del petróleo": 0.67995306058988,
+            "Precio Gasoleo B": 0.7899584824343738,
+            "Precio Gas Natural Comprimido": 0.865248576850095,
+            "Precio Gas Natural Licuado": 0.7220080645161288,
+            "Precio Bioetanol": 1.524999999999999,
+            "Precio Biodiesel": 1.1534838709677417,
+            "Precio Gasolina 95 E10": 1.2587623885918
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.0288824082678873,
+            "Precio Gasoleo B": 0.7472961325321154,
+            "Precio Gasoleo Premium": 1.11305820163851,
+            "Precio Gasolina 95 E5": 1.1381553768890138,
+            "Precio Gasolina 98 E5": 1.2846583267926415,
+            "Precio Gases licuados del petróleo": 0.6247753251408088,
+            "Precio Gas Natural Comprimido": 0.8555725806451615,
+            "Precio Gas Natural Licuado": 0.7279569892473112,
+            "Precio Gasolina 95 E10": 1.20446875
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0425905135059559,
+            "Precio Gasoleo B": 0.6550667893104174,
+            "Precio Gasolina 95 E5": 1.1530344388341531,
+            "Precio Gasoleo Premium": 1.1371739632751028,
+            "Precio Gasolina 98 E5": 1.3178366477898202,
+            "Precio Gases licuados del petróleo": 0.6658591397849458,
+            "Precio Gas Natural Comprimido": 0.8739999999999996,
+            "Precio Gasolina 95 E10": 1.2565
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.0989447613527152,
+            "Precio Gasoleo B": 0.793909062007324,
+            "Precio Gasoleo Premium": 1.1760687453043972,
+            "Precio Gasolina 95 E5": 1.1777207619994567,
+            "Precio Gasolina 98 E5": 1.3145799284488084,
+            "Precio Gases licuados del petróleo": 0.6871335223915869,
+            "Precio Gas Natural Comprimido": 0.8806451612903223,
+            "Precio Bioetanol": 1.3290000000000004,
+            "Precio Gas Natural Licuado": 0.7022258064516131,
+            "Precio Gasolina 95 E10": 1.2531666666666672
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.9043265110539435,
+            "Precio Gasolina 95 E5": 0.9627717588001067,
+            "Precio Gasolina 98 E5": 1.0929786739744074,
+            "Precio Gasoleo Premium": 1.025308041073169,
+            "Precio Gases licuados del petróleo": 0.5468260368663597
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.079485039943569,
+            "Precio Gasoleo B": 0.7569578635760162,
+            "Precio Gasoleo Premium": 1.1678653595185413,
+            "Precio Gasolina 95 E5": 1.1638014155622707,
+            "Precio Gasolina 98 E5": 1.3191143311944835,
+            "Precio Biodiesel": 1.202290322580645,
+            "Precio Gases licuados del petróleo": 0.7089124033201283,
+            "Precio Gasolina 95 E10": 1.2715
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.835560035842294,
+            "Precio Gasolina 95 E5": 0.9207948028673839,
+            "Precio Gasolina 98 E5": 0.9508521505376343,
+            "Precio Gasoleo Premium": 0.8706580645161288
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.7129801488833749,
+            "Precio Gasoleo Premium": 0.7554774193548385,
+            "Precio Gasolina 95 E5": 0.8276823821339951
+        }
+    },
+    "Agosto": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.1028083888599467,
+            "Precio Gasoleo B": 0.8149085111914417,
+            "Precio Gasolina 95 E5": 1.2043132093505269,
+            "Precio Gasoleo Premium": 1.1822912947853554,
+            "Precio Gasolina 98 E5": 1.3515930881549223,
+            "Precio Biodiesel": 1.1810537634408598,
+            "Precio Gases licuados del petróleo": 0.6998970552297163,
+            "Precio Gas Natural Comprimido": 0.8604827956989246,
+            "Precio Gas Natural Licuado": 0.7727956989247309,
+            "Precio Bioetanol": 1.5080000000000007
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0731748604309195,
+            "Precio Gasoleo B": 0.6985862438753597,
+            "Precio Gasolina 95 E5": 1.168759092317044,
+            "Precio Gasoleo Premium": 1.1637284422428913,
+            "Precio Gasolina 98 E5": 1.3109000669714883,
+            "Precio Gases licuados del petróleo": 0.6635818281627496,
+            "Precio Gas Natural Comprimido": 0.8637609970674485,
+            "Precio Gas Natural Licuado": 0.7250000000000002,
+            "Precio Gasolina 98 E10": 1.3217741935483873
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0497418503542724,
+            "Precio Gasoleo Premium": 1.1416767404020718,
+            "Precio Gasolina 95 E5": 1.159292228819218,
+            "Precio Gasolina 98 E5": 1.319471621207983,
+            "Precio Gasoleo B": 0.7294035202445228,
+            "Precio Gases licuados del petróleo": 0.6332669705462403,
+            "Precio Biodiesel": 1.0030161290322588,
+            "Precio Gas Natural Comprimido": 0.8414946236559144,
+            "Precio Gas Natural Licuado": 0.734603686635945,
+            "Precio Gasolina 95 E10": 1.2323709677419352
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.066578867131706,
+            "Precio Gasoleo B": 0.7185683292514614,
+            "Precio Gasoleo Premium": 1.1565960736075165,
+            "Precio Gasolina 95 E5": 1.1758279570198797,
+            "Precio Gasolina 98 E5": 1.328175214251645,
+            "Precio Gases licuados del petróleo": 0.6751744022057321,
+            "Precio Biodiesel": 1.0183071556579626,
+            "Precio Gas Natural Comprimido": 0.8663317972350236,
+            "Precio Gas Natural Licuado": 0.7422499999999996,
+            "Precio Gasolina 95 E10": 1.2841612903225803
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0778237784332316,
+            "Precio Gasoleo B": 0.7423875876343916,
+            "Precio Gasoleo Premium": 1.1582261921806827,
+            "Precio Gasolina 95 E5": 1.1682970522029563,
+            "Precio Gasolina 98 E5": 1.3106641627374491,
+            "Precio Gases licuados del petróleo": 0.6543480799148185,
+            "Precio Biodiesel": 1.0852258064516136,
+            "Precio Gas Natural Comprimido": 0.8368000000000001,
+            "Precio Gas Natural Licuado": 0.7111677419354836
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.0601931225614698,
+            "Precio Gasoleo B": 0.7211826679486161,
+            "Precio Gasoleo Premium": 1.1500802921915318,
+            "Precio Gasolina 95 E5": 1.157671892037969,
+            "Precio Gasolina 98 E5": 1.3042216517504144,
+            "Precio Gases licuados del petróleo": 0.6396792114695339,
+            "Precio Gas Natural Comprimido": 0.7800000000000002,
+            "Precio Gas Natural Licuado": 0.6990000000000004,
+            "Precio Biodiesel": 1.033483870967742
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.1420141575373606,
+            "Precio Gasoleo Premium": 1.216717010164753,
+            "Precio Gasolina 95 E5": 1.2415281379547354,
+            "Precio Gasolina 98 E5": 1.3874191853642341,
+            "Precio Gases licuados del petróleo": 0.6625602716468592,
+            "Precio Gasoleo B": 0.8311286482334868
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0522362930563351,
+            "Precio Gasoleo Premium": 1.149426839610202,
+            "Precio Gasolina 95 E5": 1.170633483640721,
+            "Precio Gasolina 98 E5": 1.3408942136147075,
+            "Precio Gases licuados del petróleo": 0.668282774251631,
+            "Precio Gasoleo B": 0.7319112382340146,
+            "Precio Biodiesel": 0.9840322580645163,
+            "Precio Gas Natural Comprimido": 0.8250515496521192,
+            "Precio Gas Natural Licuado": 0.7091720430107527,
+            "Precio Bioetanol": 1.3019999999999998
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6517319973932882,
+            "Precio Gasoleo A": 1.0840870904203155,
+            "Precio Gasoleo B": 0.7759190912971433,
+            "Precio Gasoleo Premium": 1.1587840245587773,
+            "Precio Gasolina 95 E5": 1.181126356556189,
+            "Precio Gasolina 98 E5": 1.3161633348582094,
+            "Precio Gas Natural Licuado": 0.6990000000000004,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.0481393109985153,
+            "Precio Gasoleo B": 0.6720203803954966,
+            "Precio Gasoleo Premium": 1.139581539841648,
+            "Precio Gasolina 95 E5": 1.149055755866081,
+            "Precio Gasolina 98 E5": 1.2986853013286968,
+            "Precio Gases licuados del petróleo": 0.6446000948766603,
+            "Precio Gas Natural Comprimido": 0.8394193548387098,
+            "Precio Gas Natural Licuado": 0.7839999999999998
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0711362604641568,
+            "Precio Gasoleo B": 0.7236967265215317,
+            "Precio Gasoleo Premium": 1.168290199714784,
+            "Precio Gasolina 95 E5": 1.17335484713066,
+            "Precio Gasolina 98 E5": 1.3280506041020965,
+            "Precio Gases licuados del petróleo": 0.6813387096774198
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.102694879098826,
+            "Precio Gasoleo Premium": 1.1854034586366142,
+            "Precio Gasolina 95 E5": 1.2043237789397694,
+            "Precio Gasolina 98 E5": 1.356670840339981,
+            "Precio Gases licuados del petróleo": 0.6786760561679271,
+            "Precio Gasoleo B": 0.7882768595291416,
+            "Precio Gasolina 95 E10": 1.217387096774193,
+            "Precio Gas Natural Comprimido": 0.8515415267844108,
+            "Precio Gas Natural Licuado": 0.7102580645161289,
+            "Precio Bioetanol": 1.445645161290322,
+            "Precio Biodiesel": 1.1417419354838703
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.0320543139493934,
+            "Precio Gasoleo B": 0.7521692577117889,
+            "Precio Gasoleo Premium": 1.1155053811700248,
+            "Precio Gasolina 95 E5": 1.1399960243266312,
+            "Precio Gasolina 98 E5": 1.2840038805438208,
+            "Precio Gases licuados del petróleo": 0.6244208909370198,
+            "Precio Gas Natural Comprimido": 0.8573467741935488,
+            "Precio Gas Natural Licuado": 0.7166666666666662
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0447895617932756,
+            "Precio Gasoleo B": 0.6593125626482161,
+            "Precio Gasolina 95 E5": 1.1540244858518334,
+            "Precio Gasoleo Premium": 1.1381609749838886,
+            "Precio Gasolina 98 E5": 1.3192253997669123,
+            "Precio Gases licuados del petróleo": 0.6660341397849463,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.1004231649222544,
+            "Precio Gasoleo B": 0.7842919604898075,
+            "Precio Gasoleo Premium": 1.177941023561092,
+            "Precio Gasolina 95 E5": 1.1780203033717394,
+            "Precio Gasolina 98 E5": 1.3142624251800579,
+            "Precio Gases licuados del petróleo": 0.6825460829493085,
+            "Precio Gas Natural Comprimido": 0.8799999999999998,
+            "Precio Gasolina 95 E10": 1.24,
+            "Precio Bioetanol": 1.3357741935483878,
+            "Precio Gas Natural Licuado": 0.6990000000000004
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.8949001802708619,
+            "Precio Gasolina 95 E5": 0.9572239181322508,
+            "Precio Gasolina 98 E5": 1.0883102856101121,
+            "Precio Gasoleo Premium": 1.0167436945222046,
+            "Precio Gases licuados del petróleo": 0.5501944017750473
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0812798028451671,
+            "Precio Gasoleo B": 0.7586044467492564,
+            "Precio Gasoleo Premium": 1.1705665964529117,
+            "Precio Gasolina 95 E5": 1.162898379730915,
+            "Precio Gasolina 98 E5": 1.320969094820943,
+            "Precio Biodiesel": 1.207774193548387,
+            "Precio Gases licuados del petróleo": 0.706258404074703
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8357347670250898,
+            "Precio Gasolina 95 E5": 0.9290107526881719,
+            "Precio Gasolina 98 E5": 0.9590322580645163,
+            "Precio Gasoleo Premium": 0.8709935483870965
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.715153846153846,
+            "Precio Gasoleo Premium": 0.7575225806451611,
+            "Precio Gasolina 95 E5": 0.8327816377171213
+        }
+    },
+    "Septiembre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.0781519472023433,
+            "Precio Gasolina 95 E5": 1.203656992855083,
+            "Precio Gasoleo Premium": 1.1597689085950533,
+            "Precio Gasolina 98 E5": 1.3521980798870352,
+            "Precio Gasoleo B": 0.7946947108764782,
+            "Precio Biodiesel": 1.164022222222222,
+            "Precio Gases licuados del petróleo": 0.6949981060606063,
+            "Precio Gas Natural Comprimido": 0.8546477777777775,
+            "Precio Gas Natural Licuado": 0.7749999999999997,
+            "Precio Bioetanol": 1.5080000000000005
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0542667535958,
+            "Precio Gasoleo B": 0.6818964910792523,
+            "Precio Gasolina 95 E5": 1.1704091858942027,
+            "Precio Gasoleo Premium": 1.145518133542226,
+            "Precio Gasolina 98 E5": 1.3128883031570757,
+            "Precio Gases licuados del petróleo": 0.6650913769811938,
+            "Precio Gas Natural Comprimido": 0.8684848484848481,
+            "Precio Gas Natural Licuado": 0.7239523809523809,
+            "Precio Gasolina 98 E10": 1.255
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0294982546415035,
+            "Precio Gasoleo Premium": 1.1204931326390233,
+            "Precio Gasolina 98 E5": 1.3204048342273709,
+            "Precio Gasoleo B": 0.7152155595143295,
+            "Precio Gasolina 95 E5": 1.158439093399199,
+            "Precio Gases licuados del petróleo": 0.6355064466325805,
+            "Precio Biodiesel": 0.9954999999999995,
+            "Precio Gas Natural Comprimido": 0.8364999999999999,
+            "Precio Gas Natural Licuado": 0.732375,
+            "Precio Gasolina 95 E10": 1.222183333333334
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.0461797746821324,
+            "Precio Gasoleo B": 0.7053864847524847,
+            "Precio Gasoleo Premium": 1.135198168930659,
+            "Precio Gasolina 95 E5": 1.175128528767811,
+            "Precio Gasolina 98 E5": 1.3292802511991795,
+            "Precio Gases licuados del petróleo": 0.6768761726903755,
+            "Precio Biodiesel": 1.0043935185185187,
+            "Precio Gas Natural Comprimido": 0.8582964285714281,
+            "Precio Gas Natural Licuado": 0.738911666666667,
+            "Precio Gasolina 95 E10": 1.2966666666666666
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0558328452201768,
+            "Precio Gasoleo B": 0.7278553868836953,
+            "Precio Gasoleo Premium": 1.136505824168464,
+            "Precio Gasolina 95 E5": 1.1671568345752263,
+            "Precio Gasolina 98 E5": 1.3115980244155727,
+            "Precio Gases licuados del petróleo": 0.6557199281045752,
+            "Precio Biodiesel": 1.0873333333333333,
+            "Precio Gas Natural Comprimido": 0.8368000000000001,
+            "Precio Gas Natural Licuado": 0.7109999999999999
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.0408645662363525,
+            "Precio Gasoleo B": 0.7056784072272407,
+            "Precio Gasoleo Premium": 1.1303430304771358,
+            "Precio Gasolina 95 E5": 1.1590203331217477,
+            "Precio Gasolina 98 E5": 1.3054494950842865,
+            "Precio Gases licuados del petróleo": 0.6360399999999999,
+            "Precio Gas Natural Comprimido": 0.7800000000000001,
+            "Precio Gas Natural Licuado": 0.6990000000000003,
+            "Precio Biodiesel": 1.016333333333334
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.1221738862081572,
+            "Precio Gasoleo Premium": 1.1953909639440772,
+            "Precio Gasolina 95 E5": 1.2449874432456005,
+            "Precio Gasolina 98 E5": 1.3897379683462538,
+            "Precio Gases licuados del petróleo": 0.6464596491228073,
+            "Precio Gasoleo B": 0.8153842592592594
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0307722168176592,
+            "Precio Gasoleo Premium": 1.1270424402611472,
+            "Precio Gasolina 95 E5": 1.1707552536300543,
+            "Precio Gasolina 98 E5": 1.3420290175034766,
+            "Precio Gases licuados del petróleo": 0.6675844677661168,
+            "Precio Gasoleo B": 0.7143298347693166,
+            "Precio Biodiesel": 0.9595952380952387,
+            "Precio Gas Natural Comprimido": 0.8243666666666667,
+            "Precio Gas Natural Licuado": 0.7085555555555556,
+            "Precio Bioetanol": 1.3019999999999998
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6465506871035939,
+            "Precio Gasoleo A": 1.0626921402386265,
+            "Precio Gasoleo B": 0.7637310263959655,
+            "Precio Gasoleo Premium": 1.1379265380863968,
+            "Precio Gasolina 95 E5": 1.1808560968965904,
+            "Precio Gasolina 98 E5": 1.3164310842809874,
+            "Precio Gas Natural Licuado": 0.6990000000000003,
+            "Precio Bioetanol": 1.5489999999999997,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.025365159639894,
+            "Precio Gasoleo B": 0.6546052631532284,
+            "Precio Gasoleo Premium": 1.1174913081933533,
+            "Precio Gasolina 95 E5": 1.1486530221930586,
+            "Precio Gasolina 98 E5": 1.2971470404939571,
+            "Precio Gases licuados del petróleo": 0.6446784313725491,
+            "Precio Gas Natural Comprimido": 0.843,
+            "Precio Gas Natural Licuado": 0.7839999999999999
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0505019978246088,
+            "Precio Gasoleo B": 0.7103659688013136,
+            "Precio Gasoleo Premium": 1.1470768733537597,
+            "Precio Gasolina 95 E5": 1.1714390650924902,
+            "Precio Gasolina 98 E5": 1.3287635878823074,
+            "Precio Gases licuados del petróleo": 0.66025
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.0812390926958586,
+            "Precio Gasoleo Premium": 1.162950749339322,
+            "Precio Gasolina 95 E5": 1.2033321429712585,
+            "Precio Gasolina 98 E5": 1.3560309543920226,
+            "Precio Gases licuados del petróleo": 0.682882875097413,
+            "Precio Gasoleo B": 0.7726762262872628,
+            "Precio Gasolina 95 E10": 1.2200000000000002,
+            "Precio Gas Natural Comprimido": 0.8539280542986424,
+            "Precio Gas Natural Licuado": 0.7040000000000004,
+            "Precio Bioetanol": 1.4089999999999994,
+            "Precio Biodiesel": 1.106666666666667
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.0096405513689062,
+            "Precio Gasoleo B": 0.7370931572880648,
+            "Precio Gasoleo Premium": 1.0935930183771936,
+            "Precio Gasolina 95 E5": 1.137479735854616,
+            "Precio Gasolina 98 E5": 1.2813981617828243,
+            "Precio Gases licuados del petróleo": 0.6214523809523809,
+            "Precio Gas Natural Comprimido": 0.8677500000000006,
+            "Precio Gas Natural Licuado": 0.7166666666666663
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0182720742022666,
+            "Precio Gasoleo B": 0.6402923538555838,
+            "Precio Gasolina 95 E5": 1.1498329147598692,
+            "Precio Gasoleo Premium": 1.1140424073331672,
+            "Precio Gasolina 98 E5": 1.3184306349132116,
+            "Precio Gases licuados del petróleo": 0.6678208333333335,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.079920883655168,
+            "Precio Gasoleo B": 0.7684334792093359,
+            "Precio Gasoleo Premium": 1.1575098570052034,
+            "Precio Gasolina 95 E5": 1.1785307701911707,
+            "Precio Gasolina 98 E5": 1.313692663605448,
+            "Precio Gases licuados del petróleo": 0.6870857142857144,
+            "Precio Gas Natural Comprimido": 0.8799999999999998,
+            "Precio Bioetanol": 1.3439999999999999,
+            "Precio Gas Natural Licuado": 0.6990000000000003
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.876417673466369,
+            "Precio Gasolina 95 E5": 0.9502601154715324,
+            "Precio Gasolina 98 E5": 1.08466765408422,
+            "Precio Gasoleo Premium": 1.0046084817466117,
+            "Precio Gases licuados del petróleo": 0.5522691358024691
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0578223648159517,
+            "Precio Gasoleo B": 0.749035882638558,
+            "Precio Gasoleo Premium": 1.1483239348105407,
+            "Precio Gasolina 95 E5": 1.1615166125187701,
+            "Precio Gasolina 98 E5": 1.3203579596194905,
+            "Precio Biodiesel": 1.130255555555555,
+            "Precio Gases licuados del petróleo": 0.7059989473684211
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8088592592592592,
+            "Precio Gasolina 95 E5": 0.9351851851851849,
+            "Precio Gasolina 98 E5": 0.9651851851851851,
+            "Precio Gasoleo Premium": 0.8448333333333337
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.6837538461538463,
+            "Precio Gasoleo Premium": 0.725773333333333,
+            "Precio Gasolina 95 E5": 0.8388461538461539
+        }
+    },
+    "Octubre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.0661667025775763,
+            "Precio Gasoleo B": 0.781873393538332,
+            "Precio Gasolina 95 E5": 1.1928298389489116,
+            "Precio Gasoleo Premium": 1.1486829958972062,
+            "Precio Gasolina 98 E5": 1.340967359805472,
+            "Precio Biodiesel": 1.1509978494623652,
+            "Precio Gases licuados del petróleo": 0.6885740325455699,
+            "Precio Gas Natural Comprimido": 0.8481927803379421,
+            "Precio Gas Natural Licuado": 0.773993548387097,
+            "Precio Bioetanol": 1.5256129032258055
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0428083535030024,
+            "Precio Gasoleo B": 0.6708357195087911,
+            "Precio Gasolina 95 E5": 1.163579807159438,
+            "Precio Gasoleo Premium": 1.1346662800188807,
+            "Precio Gasolina 98 E5": 1.3043202084191325,
+            "Precio Gases licuados del petróleo": 0.6649951778932554,
+            "Precio Gas Natural Comprimido": 0.859396774193548,
+            "Precio Gas Natural Licuado": 0.7235714285714286,
+            "Precio Gasolina 98 E10": 1.2550000000000001
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0150525828584476,
+            "Precio Gasoleo Premium": 1.1060470882067712,
+            "Precio Gasolina 95 E5": 1.1532354237009002,
+            "Precio Gasolina 98 E5": 1.3152547392463747,
+            "Precio Gasoleo B": 0.7060304504517328,
+            "Precio Gases licuados del petróleo": 0.6389055902135858,
+            "Precio Biodiesel": 0.9526935483870965,
+            "Precio Gas Natural Comprimido": 0.8361863799283155,
+            "Precio Gas Natural Licuado": 0.7330313620071683,
+            "Precio Gasolina 95 E10": 1.228822580645162
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.0341848797332125,
+            "Precio Gasoleo B": 0.6956684229717227,
+            "Precio Gasoleo Premium": 1.123993699131559,
+            "Precio Gasolina 95 E5": 1.1684374349854898,
+            "Precio Gasolina 98 E5": 1.3229287540619272,
+            "Precio Gases licuados del petróleo": 0.6780610243630582,
+            "Precio Biodiesel": 0.9817508960573478,
+            "Precio Gas Natural Comprimido": 0.8435241935483873,
+            "Precio Gas Natural Licuado": 0.7376000000000003,
+            "Precio Gasolina 95 E10": 1.2928709677419348
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0426570108244677,
+            "Precio Gasoleo B": 0.7176858319546393,
+            "Precio Gasoleo Premium": 1.1241147738360848,
+            "Precio Gasolina 95 E5": 1.1594044756069686,
+            "Precio Gasolina 98 E5": 1.3050827305089254,
+            "Precio Gases licuados del petróleo": 0.6561106402958208,
+            "Precio Biodiesel": 1.0794731182795698,
+            "Precio Gas Natural Comprimido": 0.8368000000000001,
+            "Precio Gas Natural Licuado": 0.7036193548387099
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.0297442775225512,
+            "Precio Gasoleo B": 0.6959741938105213,
+            "Precio Gasoleo Premium": 1.1211632912766132,
+            "Precio Gasolina 95 E5": 1.1517354086935088,
+            "Precio Gasolina 98 E5": 1.2942849374250427,
+            "Precio Gases licuados del petróleo": 0.6368784946236556,
+            "Precio Gas Natural Comprimido": 0.7906935483870963,
+            "Precio Gas Natural Licuado": 0.7072258064516127,
+            "Precio Biodiesel": 0.9905161290322584
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.110480102900202,
+            "Precio Gasoleo Premium": 1.1855006261093222,
+            "Precio Gasolina 95 E5": 1.231000337382302,
+            "Precio Gasolina 98 E5": 1.3779229988386517,
+            "Precio Gases licuados del petróleo": 0.6365840407470288,
+            "Precio Gasoleo B": 0.8090677434414626
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0212506838703335,
+            "Precio Gasoleo Premium": 1.1189433947383325,
+            "Precio Gasolina 95 E5": 1.164264330037172,
+            "Precio Gasolina 98 E5": 1.3365716417990758,
+            "Precio Gases licuados del petróleo": 0.6687715578573524,
+            "Precio Gasoleo B": 0.7023394722244144,
+            "Precio Biodiesel": 0.9459262672811058,
+            "Precio Gas Natural Comprimido": 0.8238261648745524,
+            "Precio Gas Natural Licuado": 0.7085555555555556,
+            "Precio Bioetanol": 1.3019999999999998
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6420726829434633,
+            "Precio Gasoleo A": 1.0511123997714402,
+            "Precio Gasoleo B": 0.753464839977411,
+            "Precio Gasoleo Premium": 1.126334166037022,
+            "Precio Gasolina 95 E5": 1.1750355278400184,
+            "Precio Gasolina 98 E5": 1.3101080457726362,
+            "Precio Gas Natural Licuado": 0.6990000000000004,
+            "Precio Gas Natural Comprimido": 0.8739999999999996,
+            "Precio Bioetanol": 1.5489999999999997
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.0107643602366958,
+            "Precio Gasoleo B": 0.6408917931372311,
+            "Precio Gasoleo Premium": 1.102202907422691,
+            "Precio Gasolina 95 E5": 1.1454263021086117,
+            "Precio Gasolina 98 E5": 1.2933044351443888,
+            "Precio Gases licuados del petróleo": 0.6473263757115753,
+            "Precio Gas Natural Comprimido": 0.8420483870967743,
+            "Precio Gas Natural Licuado": 0.7816344086021507
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0318576166088724,
+            "Precio Gasoleo B": 0.6965784204671857,
+            "Precio Gasoleo Premium": 1.1269516112919336,
+            "Precio Gasolina 95 E5": 1.1576380868634049,
+            "Precio Gasolina 98 E5": 1.3130675480499046,
+            "Precio Gases licuados del petróleo": 0.6499677419354842
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.0695439156130524,
+            "Precio Gasoleo Premium": 1.1524378820672305,
+            "Precio Gasolina 95 E5": 1.197030504996191,
+            "Precio Gasolina 98 E5": 1.3497279367802941,
+            "Precio Gases licuados del petróleo": 0.6852370278756661,
+            "Precio Gasoleo B": 0.7586998988423063,
+            "Precio Gasolina 95 E10": 1.2128709677419354,
+            "Precio Gas Natural Comprimido": 0.8517324478178367,
+            "Precio Gas Natural Licuado": 0.6980000000000002,
+            "Precio Bioetanol": 1.4089999999999994,
+            "Precio Biodiesel": 1.0879999999999999
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 0.9967575489772184,
+            "Precio Gasoleo B": 0.7255633858127928,
+            "Precio Gasoleo Premium": 1.0808663675360248,
+            "Precio Gasolina 95 E5": 1.1347766028777855,
+            "Precio Gasolina 98 E5": 1.280315346994855,
+            "Precio Gases licuados del petróleo": 0.6145210360129714,
+            "Precio Gas Natural Comprimido": 0.8677500000000006,
+            "Precio Gas Natural Licuado": 0.7166666666666662
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0069836796197922,
+            "Precio Gasoleo B": 0.6258329132760504,
+            "Precio Gasolina 95 E5": 1.1446376067694495,
+            "Precio Gasoleo Premium": 1.1019582945269577,
+            "Precio Gasolina 98 E5": 1.3104758453113385,
+            "Precio Gases licuados del petróleo": 0.6555040059034364,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.0627725579262763,
+            "Precio Gasoleo B": 0.7542901424400837,
+            "Precio Gasoleo Premium": 1.1398066319474753,
+            "Precio Gasolina 95 E5": 1.1768657620304184,
+            "Precio Gasolina 98 E5": 1.3127203242583507,
+            "Precio Gases licuados del petróleo": 0.6909129741226516,
+            "Precio Gas Natural Comprimido": 0.8799999999999998,
+            "Precio Bioetanol": 1.3089999999999997,
+            "Precio Gas Natural Licuado": 0.6990000000000004
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.8604562487897139,
+            "Precio Gasolina 95 E5": 0.9380898669287495,
+            "Precio Gasolina 98 E5": 1.0749444017623377,
+            "Precio Gasoleo Premium": 0.9955129155813288,
+            "Precio Gases licuados del petróleo": 0.5561394435910568,
+            "Precio Gas Natural Comprimido": 0.8986799999999998
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0474342120556064,
+            "Precio Gasoleo B": 0.7447964235735562,
+            "Precio Gasoleo Premium": 1.1385058098333476,
+            "Precio Gasolina 95 E5": 1.1604392108034147,
+            "Precio Gasolina 98 E5": 1.3168173075683647,
+            "Precio Biodiesel": 1.1056021505376343,
+            "Precio Gases licuados del petróleo": 0.7058319185059423
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8058100358422942,
+            "Precio Gasolina 95 E5": 0.9148172043010757,
+            "Precio Gasolina 98 E5": 0.9448172043010751,
+            "Precio Gasoleo Premium": 0.8407612903225808
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.6750194375516957,
+            "Precio Gasoleo Premium": 0.7178258064516132,
+            "Precio Gasolina 95 E5": 0.8205727874276262
+        }
+    },
+    "Noviembre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.069283268683133,
+            "Precio Gasoleo B": 0.783431957064881,
+            "Precio Gasolina 95 E5": 1.189952280374048,
+            "Precio Gasoleo Premium": 1.1527969125167234,
+            "Precio Gasolina 98 E5": 1.3390973170754665,
+            "Precio Biodiesel": 1.1553911111111108,
+            "Precio Gases licuados del petróleo": 0.6905862745098036,
+            "Precio Gas Natural Comprimido": 0.847428571428572,
+            "Precio Gas Natural Licuado": 0.7738000000000002,
+            "Precio Bioetanol": 1.5241000000000002
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0429551182281072,
+            "Precio Gasoleo B": 0.6699375457425167,
+            "Precio Gasolina 95 E5": 1.1592800245204664,
+            "Precio Gasoleo Premium": 1.1359830226119876,
+            "Precio Gasolina 98 E5": 1.3010317466884584,
+            "Precio Gases licuados del petróleo": 0.6680903798858145,
+            "Precio Gas Natural Comprimido": 0.8633433333333328,
+            "Precio Gas Natural Licuado": 0.7235714285714286,
+            "Precio Gasolina 98 E10": 1.255
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0138839050035522,
+            "Precio Gasoleo Premium": 1.1073558936016257,
+            "Precio Gasolina 95 E5": 1.1487097481602744,
+            "Precio Gasolina 98 E5": 1.3138514559281576,
+            "Precio Gasoleo B": 0.7007522067609836,
+            "Precio Gas Natural Comprimido": 0.8339777777777779,
+            "Precio Gas Natural Licuado": 0.7354074074074073,
+            "Precio Gases licuados del petróleo": 0.6393225352112676,
+            "Precio Biodiesel": 0.951833333333333,
+            "Precio Gasolina 95 E10": 1.2215833333333337
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.0344334753987694,
+            "Precio Gasoleo B": 0.691215113145672,
+            "Precio Gasoleo Premium": 1.1250391307850383,
+            "Precio Gasolina 95 E5": 1.1638499030604699,
+            "Precio Gasolina 98 E5": 1.3181615335460772,
+            "Precio Gases licuados del petróleo": 0.6788559114254954,
+            "Precio Biodiesel": 0.9823544973544976,
+            "Precio Gas Natural Comprimido": 0.837384523809524,
+            "Precio Gas Natural Licuado": 0.7376000000000003,
+            "Precio Gasolina 95 E10": 1.2880000000000003
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.043100266798534,
+            "Precio Gasoleo B": 0.7166039840847903,
+            "Precio Gasoleo Premium": 1.1253256897897237,
+            "Precio Gasolina 95 E5": 1.1544634704951167,
+            "Precio Gasolina 98 E5": 1.3005214800369072,
+            "Precio Gases licuados del petróleo": 0.6538461246857717,
+            "Precio Biodiesel": 1.0719777777777777,
+            "Precio Gas Natural Comprimido": 0.8368000000000001,
+            "Precio Gas Natural Licuado": 0.7026000000000001
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.029337054405692,
+            "Precio Gasoleo B": 0.6939637016880058,
+            "Precio Gasoleo Premium": 1.121070746819108,
+            "Precio Gasolina 95 E5": 1.1470690966847623,
+            "Precio Gasolina 98 E5": 1.2917868292870984,
+            "Precio Gases licuados del petróleo": 0.6374433333333333,
+            "Precio Gas Natural Comprimido": 0.7968999999999998,
+            "Precio Gas Natural Licuado": 0.7120000000000002,
+            "Precio Biodiesel": 0.9757333333333339
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.1129447463050774,
+            "Precio Gasoleo Premium": 1.1888724271967417,
+            "Precio Gasolina 95 E5": 1.2248562417618387,
+            "Precio Gasolina 98 E5": 1.374735956808247,
+            "Precio Gases licuados del petróleo": 0.6315473684210529,
+            "Precio Gasoleo B": 0.8067327248677248
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0222688887270084,
+            "Precio Gasoleo Premium": 1.121000995255244,
+            "Precio Gasolina 95 E5": 1.1602317671805473,
+            "Precio Gasolina 98 E5": 1.3331872157501499,
+            "Precio Gases licuados del petróleo": 0.6705700164969624,
+            "Precio Gasoleo B": 0.7037406566313227,
+            "Precio Biodiesel": 0.9470241758241761,
+            "Precio Gas Natural Comprimido": 0.8269444444444441,
+            "Precio Gas Natural Licuado": 0.7085555555555556,
+            "Precio Bioetanol": 1.3153333333333337
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6366007047216352,
+            "Precio Gasoleo A": 1.0516272780657963,
+            "Precio Gasoleo B": 0.7513446785469837,
+            "Precio Gasoleo Premium": 1.1271415449579583,
+            "Precio Gasolina 95 E5": 1.1686145662016685,
+            "Precio Gasolina 98 E5": 1.30503736221916,
+            "Precio Gas Natural Licuado": 0.6990000000000003,
+            "Precio Gas Natural Comprimido": 0.8739999999999996,
+            "Precio Bioetanol": 1.5489999999999997
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.0121791343724251,
+            "Precio Gasoleo B": 0.6439439118053275,
+            "Precio Gasoleo Premium": 1.1034720813401728,
+            "Precio Gasolina 95 E5": 1.1406935838835852,
+            "Precio Gasolina 98 E5": 1.2905081174994666,
+            "Precio Gases licuados del petróleo": 0.6455725490196078,
+            "Precio Gas Natural Comprimido": 0.8328361111111118,
+            "Precio Gas Natural Licuado": 0.7534444444444443
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0320886530161604,
+            "Precio Gasoleo B": 0.6916509852216747,
+            "Precio Gasoleo Premium": 1.1257821428571433,
+            "Precio Gasolina 95 E5": 1.1530812200956935,
+            "Precio Gasolina 98 E5": 1.3082626984126984,
+            "Precio Gases licuados del petróleo": 0.647416666666667
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.0714805749855627,
+            "Precio Gasoleo Premium": 1.1555872434581467,
+            "Precio Gasolina 95 E5": 1.1939905376436655,
+            "Precio Gasolina 98 E5": 1.348273566506097,
+            "Precio Gases licuados del petróleo": 0.6844658633793,
+            "Precio Gasoleo B": 0.754880526519551,
+            "Precio Gasolina 95 E10": 1.2233333333333332,
+            "Precio Gas Natural Comprimido": 0.8568805429864256,
+            "Precio Gas Natural Licuado": 0.6980000000000002,
+            "Precio Bioetanol": 1.4089999999999994,
+            "Precio Biodiesel": 1.0605
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 0.9988552051346258,
+            "Precio Gasoleo B": 0.7199740295495727,
+            "Precio Gasoleo Premium": 1.0838665945931767,
+            "Precio Gasolina 95 E5": 1.1331149850986402,
+            "Precio Gasolina 98 E5": 1.2799516966434799,
+            "Precio Gases licuados del petróleo": 0.6086727072310407,
+            "Precio Gas Natural Comprimido": 0.8677500000000006,
+            "Precio Gas Natural Licuado": 0.7166666666666663
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.0096055928928338,
+            "Precio Gasoleo B": 0.6248754330022138,
+            "Precio Gasolina 95 E5": 1.138245349772239,
+            "Precio Gasoleo Premium": 1.1057469113919116,
+            "Precio Gasolina 98 E5": 1.3062237665885066,
+            "Precio Gases licuados del petróleo": 0.6516333333333333,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.0615798883989178,
+            "Precio Gasoleo B": 0.752711780753968,
+            "Precio Gasoleo Premium": 1.1395459183118046,
+            "Precio Gasolina 95 E5": 1.1728467713454134,
+            "Precio Gasolina 98 E5": 1.3088183252309216,
+            "Precio Gases licuados del petróleo": 0.6984857142857145,
+            "Precio Gas Natural Comprimido": 0.8799999999999998,
+            "Precio Bioetanol": 1.3316666666666672,
+            "Precio Gas Natural Licuado": 0.6990000000000003
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.8522049082220894,
+            "Precio Gasolina 95 E5": 0.925252594263193,
+            "Precio Gasolina 98 E5": 1.0624064136932192,
+            "Precio Gasoleo Premium": 0.9914151491681182,
+            "Precio Gases licuados del petróleo": 0.5614569223985894,
+            "Precio Gas Natural Comprimido": 0.9029999999999997
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0505198574900936,
+            "Precio Gasoleo B": 0.7453455530836729,
+            "Precio Gasoleo Premium": 1.14179873259542,
+            "Precio Gasolina 95 E5": 1.1592620950856825,
+            "Precio Gasolina 98 E5": 1.3154116249977936,
+            "Precio Biodiesel": 1.0921333333333336,
+            "Precio Gases licuados del petróleo": 0.7055477582846007
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.8182462962962965,
+            "Precio Gasolina 95 E5": 0.9028833333333331,
+            "Precio Gasolina 98 E5": 0.9329472222222225,
+            "Precio Gasoleo Premium": 0.8532833333333336
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.6927811965811966,
+            "Precio Gasoleo Premium": 0.7349799999999995,
+            "Precio Gasolina 95 E5": 0.8080927350427348
+        }
+    },
+    "Diciembre": {
+        "País Vasco": {
+            "Precio Gasoleo A": 1.1100895347898938,
+            "Precio Gasoleo B": 0.8132879530300458,
+            "Precio Gasolina 95 E5": 1.2238345844972691,
+            "Precio Gasoleo Premium": 1.1931805167921155,
+            "Precio Gasolina 98 E5": 1.3750221954092987,
+            "Precio Biodiesel": 1.185763440860215,
+            "Precio Gases licuados del petróleo": 0.7008787878787877,
+            "Precio Gas Natural Comprimido": 0.847428571428572,
+            "Precio Gas Natural Licuado": 0.7738000000000003,
+            "Precio Bioetanol": 1.5134193548387092
+        },
+        "Castilla la Mancha": {
+            "Precio Gasoleo A": 1.0792648161818554,
+            "Precio Gasoleo B": 0.6919610856508898,
+            "Precio Gasolina 95 E5": 1.186566148867427,
+            "Precio Gasoleo Premium": 1.1745712819561611,
+            "Precio Gasolina 98 E5": 1.3294116598133214,
+            "Precio Gases licuados del petróleo": 0.6747630512700636,
+            "Precio Gas Natural Comprimido": 0.8679999999999995,
+            "Precio Gas Natural Licuado": 0.7235714285714286,
+            "Precio Gasolina 98 E10": 1.2550000000000001
+        },
+        "Comunidad Valenciana": {
+            "Precio Gasoleo A": 1.0494039108711872,
+            "Precio Gasoleo Premium": 1.1452985550773889,
+            "Precio Gasolina 95 E5": 1.1772388783201087,
+            "Precio Gasolina 98 E5": 1.3466204394097152,
+            "Precio Gasoleo B": 0.7227633707213301,
+            "Precio Gas Natural Comprimido": 0.8303037634408601,
+            "Precio Gas Natural Licuado": 0.7284233870967741,
+            "Precio Gases licuados del petróleo": 0.63970324527812,
+            "Precio Biodiesel": 1.0125322580645166,
+            "Precio Gasolina 95 E10": 1.250596774193549
+        },
+        "Andalucia": {
+            "Precio Gasoleo A": 1.067241306848205,
+            "Precio Gasoleo B": 0.7100694089949855,
+            "Precio Gasoleo Premium": 1.1600075573914026,
+            "Precio Gasolina 95 E5": 1.188542845938414,
+            "Precio Gasolina 98 E5": 1.3452524329858009,
+            "Precio Gases licuados del petróleo": 0.6848246939573587,
+            "Precio Biodiesel": 1.026828661034306,
+            "Precio Gas Natural Comprimido": 0.8388963133640557,
+            "Precio Gas Natural Licuado": 0.7352516129032255,
+            "Precio Gasolina 95 E10": 1.312548387096775
+        },
+        "Castilla y León": {
+            "Precio Gasoleo A": 1.0830245876365479,
+            "Precio Gasoleo B": 0.7418357293079523,
+            "Precio Gasoleo Premium": 1.1664522942767175,
+            "Precio Gasolina 95 E5": 1.1864690040643942,
+            "Precio Gasolina 98 E5": 1.3333107380213396,
+            "Precio Gases licuados del petróleo": 0.6554811510599837,
+            "Precio Biodiesel": 1.1082150537634408,
+            "Precio Gas Natural Comprimido": 0.8321258064516135,
+            "Precio Gas Natural Licuado": 0.7026000000000001,
+            "Precio Gasolina 95 E10": 1.0465,
+            "Precio Gasolina 98 E10": 1.1499999999999997
+        },
+        "Extremadura": {
+            "Precio Gasoleo A": 1.0656379393782,
+            "Precio Gasoleo B": 0.7163873327014252,
+            "Precio Gasoleo Premium": 1.15852451302868,
+            "Precio Gasolina 95 E5": 1.172634688841939,
+            "Precio Gasolina 98 E5": 1.3181542285353036,
+            "Precio Gases licuados del petróleo": 0.6403999999999995,
+            "Precio Gas Natural Comprimido": 0.7800000000000002,
+            "Precio Gas Natural Licuado": 0.6990000000000004,
+            "Precio Biodiesel": 1.0395806451612908
+        },
+        "Baleares": {
+            "Precio Gasoleo A": 1.149317631718211,
+            "Precio Gasoleo Premium": 1.2239524146387473,
+            "Precio Gasolina 95 E5": 1.2667597194985842,
+            "Precio Gasolina 98 E5": 1.4136873748896313,
+            "Precio Gases licuados del petróleo": 0.6307036502546691,
+            "Precio Gasoleo B": 0.8328404761904761
+        },
+        "Cataluña": {
+            "Precio Gasoleo A": 1.0618631838703156,
+            "Precio Gasoleo Premium": 1.1609890765398743,
+            "Precio Gasolina 95 E5": 1.1877679637585647,
+            "Precio Gasolina 98 E5": 1.3636325237894766,
+            "Precio Gases licuados del petróleo": 0.6744587133439071,
+            "Precio Gasoleo B": 0.731977606818339,
+            "Precio Biodiesel": 0.9920148883374692,
+            "Precio Gas Natural Comprimido": 0.8269532995994092,
+            "Precio Gas Natural Licuado": 0.7075759856630823,
+            "Precio Bioetanol": 1.3220000000000003
+        },
+        "Galicia": {
+            "Precio Gases licuados del petróleo": 0.6358408067926072,
+            "Precio Gasoleo A": 1.0902191997733692,
+            "Precio Gasoleo B": 0.7770531796620918,
+            "Precio Gasoleo Premium": 1.1667363031947404,
+            "Precio Gasolina 95 E5": 1.1991413383601488,
+            "Precio Gasolina 98 E5": 1.3351622460652495,
+            "Precio Gas Natural Licuado": 0.6990000000000004,
+            "Precio Gas Natural Comprimido": 0.8739999999999996,
+            "Precio Bioetanol": 1.5489999999999997
+        },
+        "Aragón": {
+            "Precio Gasoleo A": 1.0488320544796383,
+            "Precio Gasoleo B": 0.6730434496645791,
+            "Precio Gasoleo Premium": 1.1384304906139708,
+            "Precio Gasolina 95 E5": 1.1699138327783454,
+            "Precio Gasolina 98 E5": 1.324589107931052,
+            "Precio Gases licuados del petróleo": 0.6466527514231503,
+            "Precio Gas Natural Comprimido": 0.8217500000000005,
+            "Precio Gas Natural Licuado": 0.7489999999999998
+        },
+        "Rioja (La)": {
+            "Precio Gasoleo A": 1.0683570425214668,
+            "Precio Gasoleo B": 0.7158435077776011,
+            "Precio Gasoleo Premium": 1.1629185740619246,
+            "Precio Gasolina 95 E5": 1.183908955022776,
+            "Precio Gasolina 98 E5": 1.342490132441647,
+            "Precio Gases licuados del petróleo": 0.6401290322580647
+        },
+        "Madrid": {
+            "Precio Gasoleo A": 1.1092537861170693,
+            "Precio Gasoleo Premium": 1.1943850703808325,
+            "Precio Gasolina 95 E5": 1.223629997240158,
+            "Precio Gasolina 98 E5": 1.380631012643846,
+            "Precio Gases licuados del petróleo": 0.6843990725345914,
+            "Precio Gasoleo B": 0.7824872147915026,
+            "Precio Gasolina 95 E10": 1.2493225806451613,
+            "Precio Gas Natural Comprimido": 0.8574705882352943,
+            "Precio Gas Natural Licuado": 0.6980000000000002,
+            "Precio Bioetanol": 1.4089999999999994
+        },
+        "Murcia": {
+            "Precio Gasoleo A": 1.0359838920932638,
+            "Precio Gasoleo B": 0.7425379404575583,
+            "Precio Gasoleo Premium": 1.1214673013892722,
+            "Precio Gasolina 95 E5": 1.158169368827631,
+            "Precio Gasolina 98 E5": 1.3062283117456266,
+            "Precio Gases licuados del petróleo": 0.611683009045912,
+            "Precio Gas Natural Comprimido": 0.8677500000000006,
+            "Precio Gas Natural Licuado": 0.7166666666666662
+        },
+        "Navarra": {
+            "Precio Gasoleo A": 1.048576430132246,
+            "Precio Gasoleo B": 0.6567346980154773,
+            "Precio Gasolina 95 E5": 1.1624498112140305,
+            "Precio Gasoleo Premium": 1.145463084703324,
+            "Precio Gasolina 98 E5": 1.3331899396477194,
+            "Precio Gases licuados del petróleo": 0.6573602150537634,
+            "Precio Gas Natural Comprimido": 0.8739999999999996
+        },
+        "Asturias": {
+            "Precio Gasoleo A": 1.0959207387767342,
+            "Precio Gasoleo B": 0.7833483335191515,
+            "Precio Gasoleo Premium": 1.1738738649420761,
+            "Precio Gasolina 95 E5": 1.2004067698376182,
+            "Precio Gasolina 98 E5": 1.3381017593310816,
+            "Precio Gases licuados del petróleo": 0.7071318681318679,
+            "Precio Gas Natural Comprimido": 0.8799999999999998,
+            "Precio Bioetanol": 1.3951290322580652,
+            "Precio Gas Natural Licuado": 0.6990000000000004
+        },
+        "Canarias": {
+            "Precio Gasoleo A": 0.8563773923995002,
+            "Precio Gasolina 95 E5": 0.9271221614140593,
+            "Precio Gasolina 98 E5": 1.0651760575696012,
+            "Precio Gasoleo Premium": 0.9962193606752868,
+            "Precio Gases licuados del petróleo": 0.5641511350059739,
+            "Precio Gas Natural Comprimido": 0.9029999999999997
+        },
+        "Cantabria": {
+            "Precio Gasoleo A": 1.0863447175978092,
+            "Precio Gasoleo B": 0.7576733431411247,
+            "Precio Gasoleo Premium": 1.1753293969431216,
+            "Precio Gasolina 95 E5": 1.1914533723114953,
+            "Precio Gasolina 98 E5": 1.343110758939306,
+            "Precio Biodiesel": 1.1276451612903222,
+            "Precio Gases licuados del petróleo": 0.7096936427089229
+        },
+        "Ceuta": {
+            "Precio Gasoleo A": 0.858301075268817,
+            "Precio Gasolina 95 E5": 0.926831541218638,
+            "Precio Gasolina 98 E5": 0.9568387096774194,
+            "Precio Gasoleo Premium": 0.8898602150537637
+        },
+        "Melilla": {
+            "Precio Gasoleo A": 0.7329196029776677,
+            "Precio Gasoleo Premium": 0.7742445468509981,
+            "Precio Gasolina 95 E5": 0.8308133995037221
+        }
+    }
+}

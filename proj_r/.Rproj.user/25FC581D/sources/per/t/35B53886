@@ -1,0 +1,26 @@
+{
+    "id": "35B53886",
+    "path": "C:/Users/jaime/dev/trabajo-pe/proj_r/carga_datos.R",
+    "project_path": "carga_datos.R",
+    "type": "r_source",
+    "hash": "2868470329",
+    "contents": "",
+    "dirty": false,
+    "created": 1646906393174.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "35,25",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1646910516,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1646910516867,
+    "read_only": false,
+    "read_only_alternatives": []
+}
