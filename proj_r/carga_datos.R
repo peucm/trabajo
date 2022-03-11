@@ -1,6 +1,8 @@
 library("rjson")
 library("ggplot2")
 
+regions = c("País Vasco", "Castilla la Mancha", "Comunidad Valenciana", "Andalucia", "Castilla y León", "Extremadura", "Baleares", "Cataluña", "Galicia", "Aragón", "Rioja (La)", "Madrid", "Murcia", "Navarra", "Asturias", "Canarias", "Cantabria", "Ceuta", "Melilla")
+
 load_data <- function(year) {
   result <- fromJSON(file = sprintf("../avg_price_monthly_report_%d.json", year))
 }
@@ -15,7 +17,7 @@ extract_values <- function(data, region, type) {
   result
 }
 
-create_plot <- function(year, chart_data, region, type, typeDisplayName) {
+create_plot <- function(year, chart_data, region, type, typeDisplayName, filename) {
   values <- extract_values(chart_data, region, type)
   df <- data.frame(mes = names(chart_data), precio = values)
   df$mes <- factor(df$mes, levels = df$mes)
@@ -27,13 +29,23 @@ create_plot <- function(year, chart_data, region, type, typeDisplayName) {
     labs(title = sprintf("Año %d - %s - %s", year, region, typeDisplayName), x = "Mes", y = "Precio (€/l)") +
     theme_minimal() +
     theme(plot.title = element_text(hjust = 0.5))
+  
+  ggsave(filename)
   p
 }
 
-year = 2012
-region = "Madrid"
-type = "Precio Gasoleo A"
-displayName = "Gasóleo A"
+year <- 2011
+type <- "Precio Gasolina 95 E5"
+displayName <- "Gasolina 95"
+fileName <- "Gasolina95"
 
-result = load_data(year)
-create_plot(year, result, type, displayName)
+while (year <= 2022) {
+  print(sprintf("Año %d", year))
+  result <- load_data(year)
+  
+  for (region in regions) {
+    create_plot(year, result, region, type, displayName, sprintf("plots/%d_%s_%s.jpg", year, fileName, region))
+  }
+  
+  year <- year + 1
+}
