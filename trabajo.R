@@ -1,3 +1,5 @@
+library(moments)
+
 carburantes_mensual <- read.csv(file = './precio_carburantes_mensual.csv')
 carburantes_trimestral <- read.csv(file = './precio_carburantes_trimestral.csv')
 pib_trimestral <- read.csv(file = './pib_trimestral.csv')
@@ -60,6 +62,7 @@ moda_gasolina = moda(carburantes_mensual$gasolina)
 desv_tipica_gasolina = sd(carburantes_mensual$gasolina)
 max_gasolina = max(carburantes_mensual$gasolina)
 min_gasolina = min(carburantes_mensual$gasolina)
+curtosis_gasolina = kurtosis(carburantes_mensual$gasolina)
 quintil_gasolina = quantile(carburantes_mensual$gasolina, prob = seq(0, 1, 1 / 5))
 percentil_gasolina = quantile(carburantes_mensual$gasolina, prob = seq(0, 1, length = 101))
 
@@ -69,6 +72,7 @@ moda_gasoil = moda(carburantes_mensual$gasoil)
 desv_tipica_gasoil = sd(carburantes_mensual$gasoil)
 max_gasoil = max(carburantes_mensual$gasoil)
 min_gasoil = min(carburantes_mensual$gasoil)
+curtosis_gasoil = kurtosis(carburantes_mensual$gasoil)
 quintil_gasoil = quantile(carburantes_mensual$gasoil, prob = seq(0, 1, 1 / 5))
 percentil_gasoil = quantile(carburantes_mensual$gasoil, prob = seq(0, 1, length = 101))
 
@@ -79,6 +83,7 @@ moda_pib = moda(pib_trimestral$var_trim_pib)
 desv_tipica_pib = sd(pib_trimestral$var_trim_pib)
 max_pib = max(pib_trimestral$var_trim_pib)
 min_pib = min(pib_trimestral$var_trim_pib)
+curtosis_pib = kurtosis(pib_trimestral$var_trim_pib)
 quintil_pib = quantile(pib_trimestral$var_trim_pib, prob = seq(0, 1, 1 / 5))
 percentil_pib = quantile(pib_trimestral$var_trim_pib, prob = seq(0, 1, length = 101))
 
@@ -88,6 +93,7 @@ moda_ipc = moda(ipc_mensual$ipc)
 desv_tipica_ipc = sd(ipc_mensual$ipc)
 max_ipc = max(ipc_mensual$ipc)
 min_ipc = min(ipc_mensual$ipc)
+curtosis_ipc = kurtosis(ipc_mensual$ipc)
 quintil_ipc = quantile(ipc_mensual$ipc, prob = seq(0, 1, 1 / 5))
 percentil_ipc = quantile(ipc_mensual$ipc, prob = seq(0, 1, length = 101))
 
@@ -98,6 +104,7 @@ moda_petroleo = moda(petroleo_mensual$petroleo)
 desv_tipica_petroleo = sd(petroleo_mensual$petroleo)
 max_petroleo = max(petroleo_mensual$petroleo)
 min_petroleo = min(petroleo_mensual$petroleo)
+curtosis_petroleo = kurtosis(petroleo_mensual$petroleo)
 quintil_petroleo = quantile(petroleo_mensual$petroleo, prob = seq(0, 1, 1 / 5))
 percentil_petroleo = quantile(petroleo_mensual$petroleo, prob = seq(0, 1, length = 101))
 
@@ -113,7 +120,7 @@ barplot(percentil_pib, main = "Percentiles de la variación trimestral del PIB")
 barplot(quintil_ipc, main = "Quintiles de la variación mensual del IPC")
 barplot(percentil_ipc, main = "Percentiles de la variación mensual del IPC")
 
-# Barplot de cuantiles de petroleo
+# Barplot de cuantiles de petróleo
 barplot(quintil_petroleo, main = "Quintiles del precio del barril de petróleo")
 barplot(percentil_petroleo, main = "Percentiles del precio del barril de petróleo")
 
