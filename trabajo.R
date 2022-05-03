@@ -154,7 +154,7 @@ crear_scatterplot_lm(carburantes_pib$var_trim_pib, carburantes_pib$gasoil, model
 crear_scatterplot_lm(carburantes_ipc$ipc, carburantes_ipc$gasolina, modelo_gasolina_ipc, "Variación (%)", "Precio medio de la gasolina (€/l)", "Precio de la gasolina y variación mensual del IPC")
 crear_scatterplot_lm(carburantes_ipc$ipc, carburantes_ipc$gasoil, modelo_gasoil_ipc, "Variación (%)", "Precio medio del diésel (€/l)", "Precio del diésel y variación mensual del IPC")
 
-# Boxplots
+# Diagramas de cajas y bigotes
 boxplot(carburantes_mensual$gasolina, ylab = "Precio (€/l)", main = "Precio medio de la gasolina");
 boxplot(carburantes_mensual$gasoil, ylab = "Precio (€/l)", main = "Precio medio del diésel");
 boxplot(petroleo_mensual$petroleo, ylab = "Precio (€/l)", main = "Precio medio del barril de petróleo");
