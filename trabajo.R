@@ -146,3 +146,20 @@ crear_scatterplot_lm(carburantes_pib$var_trim_pib, carburantes_pib$gasolina, mod
 crear_scatterplot_lm(carburantes_pib$var_trim_pib, carburantes_pib$gasoil, modelo_gasoil_pib, "Variación (%)", "Precio medio del diésel (€/l)", "Precio del diésel y variación trimestral del PIB")
 crear_scatterplot_lm(carburantes_ipc$ipc, carburantes_ipc$gasolina, modelo_gasolina_ipc, "Variación (%)", "Precio medio de la gasolina (€/l)", "Precio de la gasolina y variación mensual del IPC")
 crear_scatterplot_lm(carburantes_ipc$ipc, carburantes_ipc$gasoil, modelo_gasoil_ipc, "Variación (%)", "Precio medio del diésel (€/l)", "Precio del diésel y variación mensual del IPC")
+
+# Boxplots
+boxplot(carburantes_mensual$gasolina, ylab = "Precio (€/l)", main = "Precio medio de la gasolina");
+boxplot(carburantes_mensual$gasoil, ylab = "Precio (€/l)", main = "Precio medio del diésel");
+boxplot(petroleo_mensual$petroleo, ylab = "Precio (€/l)", main = "Precio medio del barril de petróleo");
+boxplot(pib_trimestral$var_trim_pib, ylab = "Variación (%)", main = "Variación trimestral del PIB");
+boxplot(ipc_mensual$ipc, ylab = "Variación (%)", main = "Variación mensual del IPC");
+
+# QQ-Plots
+qqnorm(carburantes_mensual$gasolina)
+qqline(carburantes_mensual$gasolina, col = "steelblue", lwd = 2)
+
+qqnorm(carburantes_pib$var_trim_pib, pch = 1, frame = FALSE)
+qqline(carburantes_pib$var_trim_pib, col = "steelblue", lwd = 2)
+
+qqnorm(carburantes_ipc$ipc)
+qqline(carburantes_ipc$ipc, col = "steelblue", lwd = 2)
