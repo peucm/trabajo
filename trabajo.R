@@ -1,3 +1,10 @@
+# Trabajo de Probabilidad y Estadística
+# FDI UCM - 2ºB - 2021/2022
+# Grupo 10:
+# Laura de Cara Molina
+# Jaime Costas Insua
+# Alejandro Agramonte Agüero
+# Alberto Martínez de Pinillos Fernández
 library(moments)
 
 carburantes_mensual <- read.csv(file = './precio_carburantes_mensual.csv')
