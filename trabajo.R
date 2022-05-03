@@ -160,13 +160,3 @@ boxplot(carburantes_mensual$gasoil, ylab = "Precio (€/l)", main = "Precio medi
 boxplot(petroleo_mensual$petroleo, ylab = "Precio (€/l)", main = "Precio medio del barril de petróleo");
 boxplot(pib_trimestral$var_trim_pib, ylab = "Variación (%)", main = "Variación trimestral del PIB");
 boxplot(ipc_mensual$ipc, ylab = "Variación (%)", main = "Variación mensual del IPC");
-
-# QQ-Plots
-qqnorm(carburantes_mensual$gasolina)
-qqline(carburantes_mensual$gasolina, col = "steelblue", lwd = 2)
-
-qqnorm(carburantes_pib$var_trim_pib, pch = 1, frame = FALSE)
-qqline(carburantes_pib$var_trim_pib, col = "steelblue", lwd = 2)
-
-qqnorm(carburantes_ipc$ipc)
-qqline(carburantes_ipc$ipc, col = "steelblue", lwd = 2)
